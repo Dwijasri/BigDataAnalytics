@@ -1,1 +1,1201 @@
-
+gift_id,occasion,gift_name,category,price_usd,giver_age,receiver_age,relationship,purchase_channel,country,date,message
+GFT100000,Graduation,Laptop,Electronics,626.23,59,56,Partner,Online,India,2021-10-10,Happy Graduation! Hope you like it.
+GFT100001,Birthday,Perfume,Personal Care,65.56,32,31,Relative,In-store,India,2021-12-26,Wishing you a wonderful Birthday.
+GFT100002,Graduation,Certificate Frame,Home Appliances,682.13,35,18,Relative,Online,Germany,2025-03-18,Congrats on your Graduation!
+GFT100003,Birthday,Teddy Bear,Toys,45.63,50,75,Friend,In-store,India,2024-01-09,With love on your Birthday.
+GFT100004,Housewarming,Doormat,Home Decor,197.97,46,17,Friend,Handmade,Germany,2021-06-13,Wishing you a wonderful Housewarming.
+GFT100005,Birthday,Perfume,Personal Care,150.21,43,20,Family,Online,India,2024-08-06,A small gift for your Birthday.
+GFT100006,Anniversary,Jewelry,Accessories,26.75,44,69,Relative,Online,UK,2025-03-31,Happy Anniversary! Hope you like it.
+GFT100007,Birthday,Book,Books,19.13,28,53,Colleague,Handmade,India,2018-01-09,Congrats on your Birthday!
+GFT100008,Anniversary,Perfume,Personal Care,46.35,26,1,Self,Online,Germany,2022-07-12,Happy Anniversary! Hope you like it.
+GFT100009,Eid,Traditional Clothes,Clothing,214.33,28,30,Partner,Online,India,2018-10-09,Wishing you a wonderful Eid.
+GFT100010,Valentine's Day,Chocolates,Food,103.29,31,33,Colleague,Online,UAE,2018-07-28,Happy Valentine's Day! Hope you like it.
+GFT100011,Graduation,Pen Set,Stationery,48.44,70,42,Partner,Online,India,2019-02-26,With love on your Graduation.
+GFT100012,Mother's Day,Handbag,Bags,131.48,27,49,Colleague,Online,Australia,2020-07-21,Wishing you a wonderful Mother's Day.
+GFT100013,Birthday,Cake,Food,30.55,47,24,Colleague,In-store,India,2018-07-01,Congrats on your Birthday!
+GFT100014,Birthday,Headphones,Electronics,461.06,26,35,Self,Online,USA,2018-01-02,With love on your Birthday.
+GFT100015,Anniversary,Wine,Food & Beverage,111.62,30,30,Self,In-store,India,2022-08-25,A small gift for your Anniversary.
+GFT100016,Birthday,Sunglasses,Accessories,90.56,63,90,Colleague,In-store,Canada,2023-08-30,Congrats on your Birthday!
+GFT100017,Mother's Day,Chocolates,Food,30.33,19,15,Colleague,Online,USA,2018-09-13,Wishing you a wonderful Mother's Day.
+GFT100018,Mother's Day,Handbag,Bags,121.29,58,79,Colleague,In-store,Germany,2019-06-07,A small gift for your Mother's Day.
+GFT100019,Wedding,Cash Gift,Cash,98.37,56,30,Acquaintance,Handmade,India,2018-05-08,Wishing you a wonderful Wedding.
+GFT100020,Birthday,Watch,Accessories,43.52,60,42,Friend,Online,Australia,2020-09-21,Happy Birthday! Hope you like it.
+GFT100021,Baby Shower,Toy Set,Baby,8.32,56,43,Self,In-store,USA,2023-06-04,Congrats on your Baby Shower!
+GFT100022,Christmas,Hot Cocoa Set,Food & Beverage,142.76,27,2,Family,In-store,USA,2020-09-11,Congrats on your Christmas!
+GFT100023,Graduation,Watch,Accessories,226.49,26,8,Family,In-store,India,2024-08-11,A small gift for your Graduation.
+GFT100024,Graduation,Laptop,Electronics,1513.73,45,22,Acquaintance,Online,USA,2024-06-21,Happy Graduation! Hope you like it.
+GFT100025,Birthday,Gift Card,Gift Cards,212.85,25,10,Family,Online,India,2022-08-01,Congrats on your Birthday!
+GFT100026,Baby Shower,Baby Blanket,Baby,155.12,67,73,Partner,Online,USA,2021-05-30,Congrats on your Baby Shower!
+GFT100027,Eid,Gift Hamper,Food & Beverage,91.45,52,49,Relative,In-store,UAE,2023-04-10,With love on your Eid.
+GFT100028,Christmas,Gift Basket,Food & Beverage,212.01,54,72,Colleague,In-store,Canada,2020-04-13,With love on your Christmas.
+GFT100029,Wedding,Cutlery Set,Home Appliances,383.01,45,45,Family,Online,India,2020-02-20,A small gift for your Wedding.
+GFT100030,Christmas,Christmas Ornament,Home Decor,88.51,59,44,Self,Online,Germany,2022-08-10,Happy Christmas! Hope you like it.
+GFT100031,Anniversary,Wine,Food & Beverage,28.47,65,51,Partner,In-store,India,2018-11-25,With love on your Anniversary.
+GFT100032,Father's Day,Gadget,Electronics,264.95,18,6,Partner,Online,India,2023-12-16,Congrats on your Father's Day!
+GFT100033,Wedding,Kitchen Set,Home Appliances,594.05,59,45,Colleague,In-store,India,2022-04-25,Congrats on your Wedding!
+GFT100034,Birthday,Sunglasses,Accessories,74.46,31,44,Acquaintance,In-store,UK,2019-07-15,Happy Birthday! Hope you like it.
+GFT100035,Eid,Sweets Box,Food,18.33,66,43,Colleague,Handmade,India,2020-07-13,Congrats on your Eid!
+GFT100036,Diwali,Home Decor,Home Decor,137.53,59,48,Relative,Online,India,2018-06-02,With love on your Diwali.
+GFT100037,Diwali,Sweets,Food,30.6,38,14,Relative,Online,UAE,2025-03-26,With love on your Diwali.
+GFT100038,Birthday,Gift Card,Gift Cards,71.98,53,23,Partner,In-store,India,2019-06-17,A small gift for your Birthday.
+GFT100039,Anniversary,Jewelry,Accessories,193.45,70,82,Self,Online,UK,2018-05-08,Happy Anniversary! Hope you like it.
+GFT100040,Diwali,Clothes,Home Appliances,678.59,64,69,Relative,In-store,USA,2020-07-24,Congrats on your Diwali!
+GFT100041,Valentine's Day,Plush Toy,Toys,29.59,57,87,Acquaintance,Online,UAE,2018-07-30,With love on your Valentine's Day.
+GFT100042,Graduation,Pen Set,Stationery,33.56,26,13,Relative,In-store,UAE,2021-12-08,Happy Graduation! Hope you like it.
+GFT100043,Birthday,Teddy Bear,Toys,52.22,42,43,Self,Online,India,2023-09-30,Happy Birthday! Hope you like it.
+GFT100044,Valentine's Day,Roses,Flowers,62.19,57,78,Partner,Online,Germany,2018-06-23,Congrats on your Valentine's Day!
+GFT100045,Birthday,Perfume,Personal Care,76.02,36,55,Family,Online,UK,2023-12-14,A small gift for your Birthday.
+GFT100046,Birthday,Book,Books,15.95,70,80,Partner,Online,India,2022-12-17,With love on your Birthday.
+GFT100047,Mother's Day,Chocolates,Food,6.33,47,26,Friend,Online,Australia,2021-11-07,Happy Mother's Day! Hope you like it.
+GFT100048,Christmas,Christmas Ornament,Home Decor,191.53,70,49,Partner,Online,UK,2021-12-03,With love on your Christmas.
+GFT100049,Diwali,Clothes,Electronics,804.62,29,7,Family,Online,Germany,2019-02-19,A small gift for your Diwali.
+GFT100050,Housewarming,Serving Tray,Home Appliances,717.8,66,86,Colleague,Handmade,India,2025-08-10,A small gift for your Housewarming.
+GFT100051,Diwali,Clothes,Electronics,142.85,42,17,Family,In-store,Germany,2018-04-20,Congrats on your Diwali!
+GFT100052,Birthday,Headphones,Electronics,964.4,50,80,Relative,In-store,USA,2021-03-26,Wishing you a wonderful Birthday.
+GFT100053,Anniversary,Flowers,Flowers,22.22,47,67,Self,Online,India,2023-04-10,Happy Anniversary! Hope you like it.
+GFT100054,Graduation,Pen Set,Stationery,46.06,44,16,Partner,Online,Australia,2018-06-21,With love on your Graduation.
+GFT100055,Eid,Gift Hamper,Food & Beverage,123.68,66,41,Relative,Online,USA,2020-01-10,A small gift for your Eid.
+GFT100056,Anniversary,Flowers,Flowers,140.34,16,1,Acquaintance,In-store,Australia,2018-05-23,Wishing you a wonderful Anniversary.
+GFT100057,Birthday,Book,Books,20.65,43,26,Self,Online,UAE,2023-07-05,Wishing you a wonderful Birthday.
+GFT100058,Birthday,Perfume,Personal Care,124.78,30,50,Colleague,Online,USA,2022-02-20,Congrats on your Birthday!
+GFT100059,Mother's Day,Chocolates,Food,125.79,42,44,Acquaintance,Online,India,2019-09-19,With love on your Mother's Day.
+GFT100060,Birthday,Book,Books,18.82,17,39,Acquaintance,Online,India,2025-03-12,A small gift for your Birthday.
+GFT100061,Anniversary,Jewelry,Accessories,125.29,70,62,Colleague,Online,India,2024-04-19,Happy Anniversary! Hope you like it.
+GFT100062,Anniversary,Wine,Food & Beverage,159.13,47,46,Family,Online,India,2018-07-27,With love on your Anniversary.
+GFT100063,Christmas,Hot Cocoa Set,Food & Beverage,53.3,21,16,Partner,In-store,India,2022-02-06,Wishing you a wonderful Christmas.
+GFT100064,Birthday,Headphones,Electronics,638.6,67,38,Partner,Online,India,2022-09-03,A small gift for your Birthday.
+GFT100065,Anniversary,Couple Watch Set,Accessories,149.36,41,20,Colleague,In-store,USA,2024-11-09,Congrats on your Anniversary!
+GFT100066,Father's Day,Tool Kit,Tools,138.88,34,53,Partner,In-store,UK,2023-06-26,With love on your Father's Day.
+GFT100067,Christmas,Board Game,Toys,44.6,32,10,Friend,In-store,USA,2020-09-20,Happy Christmas! Hope you like it.
+GFT100068,Graduation,Books,Accessories,114.36,51,35,Self,In-store,Germany,2018-06-02,Wishing you a wonderful Graduation.
+GFT100069,Christmas,Christmas Ornament,Home Decor,7.38,22,13,Family,In-store,UK,2020-02-02,Happy Christmas! Hope you like it.
+GFT100070,Housewarming,Doormat,Home Decor,155.08,31,42,Partner,In-store,India,2019-04-30,Congrats on your Housewarming!
+GFT100071,Anniversary,Wine,Food & Beverage,94.36,30,43,Acquaintance,Online,Australia,2023-11-23,Congrats on your Anniversary!
+GFT100072,Christmas,Gift Basket,Food & Beverage,38.32,58,79,Partner,In-store,India,2018-01-13,Wishing you a wonderful Christmas.
+GFT100073,Wedding,Toaster,Home Appliances,834.36,57,82,Self,Online,Germany,2019-05-01,Wishing you a wonderful Wedding.
+GFT100074,Diwali,Clothes,Stationery,14.19,16,1,Family,Online,USA,2023-01-03,A small gift for your Diwali.
+GFT100075,Baby Shower,Baby Clothes,Baby,115.56,18,23,Self,In-store,UAE,2025-01-08,Congrats on your Baby Shower!
+GFT100076,Wedding,Toaster,Home Appliances,387.12,28,19,Relative,Online,USA,2022-02-28,Happy Wedding! Hope you like it.
+GFT100077,Wedding,Kitchen Set,Home Appliances,391.59,53,68,Family,Online,India,2021-08-10,With love on your Wedding.
+GFT100078,Valentine's Day,Couple Ring,Accessories,72.15,36,20,Colleague,Online,India,2024-03-05,With love on your Valentine's Day.
+GFT100079,Anniversary,Perfume,Personal Care,116.15,29,3,Relative,Online,India,2023-02-11,With love on your Anniversary.
+GFT100080,Birthday,Backpack,Bags,207.28,40,15,Partner,Handmade,USA,2020-09-23,Wishing you a wonderful Birthday.
+GFT100081,Anniversary,Perfume,Personal Care,181.07,59,85,Self,Online,India,2018-11-01,With love on your Anniversary.
+GFT100082,Eid,Sweets Box,Food,57.38,37,10,Friend,Online,Australia,2021-10-27,A small gift for your Eid.
+GFT100083,Housewarming,Serving Tray,Home Appliances,152.25,39,29,Partner,Online,India,2021-06-16,Congrats on your Housewarming!
+GFT100084,Valentine's Day,Heart Necklace,Accessories,32.91,39,19,Family,Online,India,2019-08-21,Happy Valentine's Day! Hope you like it.
+GFT100085,Birthday,Gift Card,Gift Cards,187.46,34,24,Self,Handmade,India,2021-07-10,Wishing you a wonderful Birthday.
+GFT100086,Diwali,Gift Hamper,Food & Beverage,276.71,19,41,Acquaintance,In-store,USA,2023-08-08,Wishing you a wonderful Diwali.
+GFT100087,Graduation,Backpack,Bags,189.31,37,17,Relative,In-store,USA,2025-03-27,Congrats on your Graduation!
+GFT100088,Diwali,Gift Hamper,Food & Beverage,133.7,24,16,Partner,Online,Australia,2023-11-05,Congrats on your Diwali!
+GFT100089,Valentine's Day,Roses,Flowers,121.3,57,54,Colleague,Online,UK,2020-03-19,Congrats on your Valentine's Day!
+GFT100090,Wedding,Cash Gift,Cash,887.33,54,35,Acquaintance,In-store,Australia,2024-11-21,A small gift for your Wedding.
+GFT100091,Birthday,Teddy Bear,Toys,11.32,37,67,Friend,Online,India,2022-04-22,A small gift for your Birthday.
+GFT100092,Christmas,Toy,Toys,74.21,38,42,Acquaintance,In-store,Canada,2022-12-13,A small gift for your Christmas.
+GFT100093,Birthday,Sunglasses,Accessories,213.95,67,50,Acquaintance,Online,India,2021-02-25,A small gift for your Birthday.
+GFT100094,Wedding,Cutlery Set,Home Appliances,379.98,24,30,Relative,Online,USA,2023-01-26,Happy Wedding! Hope you like it.
+GFT100095,Graduation,Laptop,Electronics,22.76,68,56,Partner,Online,India,2023-06-11,With love on your Graduation.
+GFT100096,Father's Day,Tool Kit,Tools,285.14,25,1,Colleague,In-store,Canada,2020-08-17,Congrats on your Father's Day!
+GFT100097,Graduation,Certificate Frame,Accessories,14.48,63,88,Family,In-store,UK,2018-10-08,A small gift for your Graduation.
+GFT100098,Wedding,Home Decor,Home Decor,88.49,61,69,Partner,In-store,UK,2025-05-20,With love on your Wedding.
+GFT100099,Birthday,Headphones,Electronics,184.01,64,38,Friend,Online,India,2020-06-02,Happy Birthday! Hope you like it.
+GFT100100,Eid,Gift Hamper,Food & Beverage,161.23,42,58,Acquaintance,Online,India,2022-11-15,Happy Eid! Hope you like it.
+GFT100101,Christmas,Board Game,Toys,65.37,32,35,Friend,Online,UAE,2025-01-14,Happy Christmas! Hope you like it.
+GFT100102,Christmas,Board Game,Toys,18.05,60,77,Relative,Online,India,2022-09-01,With love on your Christmas.
+GFT100103,Anniversary,Flowers,Flowers,148.07,52,53,Acquaintance,In-store,Canada,2024-02-17,Wishing you a wonderful Anniversary.
+GFT100104,Birthday,Sunglasses,Accessories,82.37,48,44,Relative,In-store,USA,2018-12-14,A small gift for your Birthday.
+GFT100105,Birthday,Teddy Bear,Toys,32.94,44,34,Colleague,Online,India,2020-04-30,Congrats on your Birthday!
+GFT100106,Anniversary,Dinner Voucher,Experience,300.83,30,6,Colleague,Online,Australia,2019-05-13,Happy Anniversary! Hope you like it.
+GFT100107,Birthday,Cake,Food,115.65,42,64,Relative,Online,India,2025-08-30,Congrats on your Birthday!
+GFT100108,Birthday,Cake,Food,55.19,60,52,Colleague,Online,USA,2024-05-05,A small gift for your Birthday.
+GFT100109,Anniversary,Dinner Voucher,Experience,143.94,66,60,Partner,Handmade,UAE,2019-12-13,Wishing you a wonderful Anniversary.
+GFT100110,Anniversary,Dinner Voucher,Experience,240.79,54,36,Acquaintance,Online,Canada,2021-08-18,Happy Anniversary! Hope you like it.
+GFT100111,Birthday,Teddy Bear,Toys,30.72,37,21,Relative,Online,India,2021-06-10,With love on your Birthday.
+GFT100112,Birthday,Watch,Accessories,260.11,55,71,Partner,Online,India,2020-10-19,Happy Birthday! Hope you like it.
+GFT100113,Valentine's Day,Roses,Flowers,104.84,19,10,Family,In-store,India,2018-11-04,A small gift for your Valentine's Day.
+GFT100114,Eid,Sweets Box,Food,5.55,68,69,Family,Online,India,2018-12-25,With love on your Eid.
+GFT100115,Mother's Day,Chocolates,Food,24.29,32,38,Friend,Online,UK,2019-02-01,Happy Mother's Day! Hope you like it.
+GFT100116,Graduation,Books,Home Appliances,506.0,22,52,Acquaintance,Online,UAE,2019-11-16,Wishing you a wonderful Graduation.
+GFT100117,Mother's Day,Spa Voucher,Experience,208.28,41,18,Colleague,Online,USA,2024-07-14,Happy Mother's Day! Hope you like it.
+GFT100118,Eid,Sweets Box,Food,51.67,16,7,Acquaintance,In-store,India,2023-07-07,Happy Eid! Hope you like it.
+GFT100119,Diwali,Lamps (Diyas),Home Decor,192.73,48,74,Self,Online,India,2020-04-02,Happy Diwali! Hope you like it.
+GFT100120,Anniversary,Wine,Food & Beverage,184.46,39,12,Family,In-store,Canada,2020-05-27,Wishing you a wonderful Anniversary.
+GFT100121,Graduation,Certificate Frame,Home Decor,196.29,44,33,Relative,Online,UK,2024-07-22,Happy Graduation! Hope you like it.
+GFT100122,Birthday,Book,Books,65.69,58,36,Relative,Online,USA,2021-04-25,With love on your Birthday.
+GFT100123,Eid,Gift Hamper,Food & Beverage,85.97,50,68,Family,Handmade,Germany,2025-05-04,Happy Eid! Hope you like it.
+GFT100124,Birthday,Cake,Food,28.53,27,18,Colleague,Handmade,Germany,2023-02-18,Wishing you a wonderful Birthday.
+GFT100125,Anniversary,Couple Watch Set,Accessories,131.17,27,43,Partner,Handmade,Germany,2023-12-16,Wishing you a wonderful Anniversary.
+GFT100126,Birthday,Watch,Accessories,209.15,25,55,Acquaintance,Online,India,2019-06-22,Wishing you a wonderful Birthday.
+GFT100127,Housewarming,Serving Tray,Home Appliances,1079.3,55,25,Partner,Online,India,2023-11-02,With love on your Housewarming.
+GFT100128,Graduation,Certificate Frame,Electronics,501.49,15,27,Friend,Handmade,Australia,2025-07-03,Congrats on your Graduation!
+GFT100129,Birthday,Perfume,Personal Care,130.69,57,68,Family,Online,Germany,2024-12-21,With love on your Birthday.
+GFT100130,Father's Day,Tool Kit,Tools,253.87,26,35,Colleague,In-store,UK,2025-09-04,Wishing you a wonderful Father's Day.
+GFT100131,Christmas,Toy,Toys,8.8,56,50,Family,In-store,USA,2024-11-15,Happy Christmas! Hope you like it.
+GFT100132,Birthday,Teddy Bear,Toys,62.96,56,27,Friend,Online,India,2024-02-28,Happy Birthday! Hope you like it.
+GFT100133,Mother's Day,Chocolates,Food,57.52,55,76,Partner,Online,India,2019-03-12,Happy Mother's Day! Hope you like it.
+GFT100134,Father's Day,Tie,Clothing,284.14,47,25,Colleague,Online,Canada,2024-03-16,Congrats on your Father's Day!
+GFT100135,Father's Day,Tie,Clothing,70.18,53,67,Relative,Online,Germany,2024-02-22,With love on your Father's Day.
+GFT100136,Baby Shower,Feeding Bottle,Baby,126.75,49,37,Acquaintance,Online,India,2019-03-13,Happy Baby Shower! Hope you like it.
+GFT100137,Valentine's Day,Roses,Flowers,97.71,65,86,Relative,Online,UK,2022-04-12,Congrats on your Valentine's Day!
+GFT100138,Christmas,Hot Cocoa Set,Food & Beverage,36.73,26,43,Self,Online,India,2021-02-17,A small gift for your Christmas.
+GFT100139,Anniversary,Jewelry,Accessories,243.99,25,21,Self,Online,India,2020-06-25,Wishing you a wonderful Anniversary.
+GFT100140,Graduation,Pen Set,Stationery,11.32,61,49,Friend,Handmade,Australia,2022-03-16,A small gift for your Graduation.
+GFT100141,Mother's Day,Handbag,Bags,245.02,56,78,Friend,In-store,India,2023-02-24,With love on your Mother's Day.
+GFT100142,Birthday,Perfume,Personal Care,40.84,33,53,Relative,Online,India,2022-11-28,Congrats on your Birthday!
+GFT100143,Valentine's Day,Love Letter,Personal Care,84.75,49,54,Friend,Online,Canada,2021-11-09,Wishing you a wonderful Valentine's Day.
+GFT100144,Christmas,Hot Cocoa Set,Food & Beverage,25.71,23,35,Relative,Online,India,2018-10-13,Wishing you a wonderful Christmas.
+GFT100145,Anniversary,Wine,Food & Beverage,184.01,50,26,Family,In-store,India,2021-02-23,Wishing you a wonderful Anniversary.
+GFT100146,Father's Day,Wallet,Accessories,189.96,69,57,Family,Online,USA,2022-06-14,With love on your Father's Day.
+GFT100147,Christmas,Hot Cocoa Set,Food & Beverage,16.66,65,58,Colleague,Online,USA,2018-07-10,Happy Christmas! Hope you like it.
+GFT100148,Diwali,Gift Hamper,Food & Beverage,87.52,53,23,Self,In-store,USA,2020-07-31,Happy Diwali! Hope you like it.
+GFT100149,Christmas,Gift Basket,Food & Beverage,182.28,24,1,Family,Online,India,2022-07-19,A small gift for your Christmas.
+GFT100150,Diwali,Sweets,Food,16.16,39,33,Family,Online,India,2023-08-28,Congrats on your Diwali!
+GFT100151,Mother's Day,Chocolates,Food,109.27,45,65,Acquaintance,Online,USA,2025-10-24,A small gift for your Mother's Day.
+GFT100152,Birthday,Teddy Bear,Toys,52.12,69,73,Colleague,Online,UK,2025-08-19,Congrats on your Birthday!
+GFT100153,Housewarming,Wall Art,Home Decor,264.37,59,72,Relative,Online,India,2025-02-17,Happy Housewarming! Hope you like it.
+GFT100154,Mother's Day,Spa Voucher,Experience,356.51,33,15,Friend,In-store,USA,2025-10-31,Wishing you a wonderful Mother's Day.
+GFT100155,Graduation,Certificate Frame,Toys,57.5,27,26,Colleague,Online,India,2022-07-26,A small gift for your Graduation.
+GFT100156,Birthday,Perfume,Personal Care,97.28,55,75,Family,In-store,India,2021-07-17,Congrats on your Birthday!
+GFT100157,Diwali,Home Decor,Home Decor,419.14,28,12,Family,In-store,Australia,2021-12-29,Wishing you a wonderful Diwali.
+GFT100158,Mother's Day,Flowers,Flowers,99.05,66,63,Colleague,Handmade,India,2021-11-23,Congrats on your Mother's Day!
+GFT100159,Father's Day,Wallet,Accessories,214.67,69,64,Partner,Online,USA,2024-06-16,Wishing you a wonderful Father's Day.
+GFT100160,Mother's Day,Perfume,Personal Care,73.99,18,1,Acquaintance,Online,Australia,2019-01-30,Congrats on your Mother's Day!
+GFT100161,Housewarming,Doormat,Home Decor,237.07,44,54,Family,In-store,UK,2021-10-13,Congrats on your Housewarming!
+GFT100162,Graduation,Books,Food & Beverage,54.33,62,76,Relative,Online,India,2019-02-26,Happy Graduation! Hope you like it.
+GFT100163,Birthday,Backpack,Bags,280.88,44,69,Self,Handmade,USA,2019-07-08,A small gift for your Birthday.
+GFT100164,Birthday,Backpack,Bags,151.05,46,76,Acquaintance,Online,India,2022-10-30,With love on your Birthday.
+GFT100165,Graduation,Laptop,Electronics,454.31,69,43,Family,Online,India,2023-02-09,A small gift for your Graduation.
+GFT100166,Christmas,Hot Cocoa Set,Food & Beverage,84.34,20,43,Acquaintance,Handmade,India,2022-05-27,Happy Christmas! Hope you like it.
+GFT100167,Wedding,Kitchen Set,Home Appliances,197.23,61,33,Relative,Handmade,USA,2020-11-03,Congrats on your Wedding!
+GFT100168,Graduation,Backpack,Bags,14.93,54,45,Acquaintance,In-store,India,2025-03-25,Wishing you a wonderful Graduation.
+GFT100169,Baby Shower,Baby Clothes,Baby,116.52,44,31,Acquaintance,In-store,UAE,2024-03-21,Wishing you a wonderful Baby Shower.
+GFT100170,Birthday,Teddy Bear,Toys,30.87,35,31,Relative,Online,India,2025-05-22,Happy Birthday! Hope you like it.
+GFT100171,Birthday,Teddy Bear,Toys,44.18,18,11,Self,In-store,Germany,2022-02-20,Happy Birthday! Hope you like it.
+GFT100172,Mother's Day,Perfume,Personal Care,15.28,57,54,Friend,Online,India,2022-07-03,A small gift for your Mother's Day.
+GFT100173,Valentine's Day,Chocolates,Food,29.71,61,33,Partner,Online,USA,2021-05-21,Happy Valentine's Day! Hope you like it.
+GFT100174,Anniversary,Jewelry,Accessories,264.8,61,35,Relative,Online,USA,2023-06-23,A small gift for your Anniversary.
+GFT100175,Mother's Day,Flowers,Flowers,18.97,35,39,Self,Online,USA,2020-06-23,Wishing you a wonderful Mother's Day.
+GFT100176,Birthday,Sunglasses,Accessories,192.38,50,59,Relative,Online,India,2020-12-26,Congrats on your Birthday!
+GFT100177,Anniversary,Photo Frame,Home Decor,47.72,62,35,Family,Handmade,UAE,2021-03-24,Happy Anniversary! Hope you like it.
+GFT100178,Valentine's Day,Roses,Flowers,205.67,18,17,Relative,Handmade,India,2025-05-28,With love on your Valentine's Day.
+GFT100179,Graduation,Certificate Frame,Toys,55.95,40,57,Family,Online,UK,2021-12-26,With love on your Graduation.
+GFT100180,Anniversary,Photo Frame,Home Decor,80.84,34,62,Self,Online,USA,2020-04-26,Wishing you a wonderful Anniversary.
+GFT100181,Wedding,Vase,Home Decor,244.92,41,37,Partner,Online,UAE,2025-02-21,With love on your Wedding.
+GFT100182,Birthday,Cake,Food,46.66,29,1,Colleague,In-store,India,2021-01-10,Congrats on your Birthday!
+GFT100183,Birthday,Cake,Food,49.44,17,20,Friend,Online,Australia,2018-06-23,Wishing you a wonderful Birthday.
+GFT100184,Christmas,Toy,Toys,44.0,52,82,Relative,Online,India,2021-08-17,Congrats on your Christmas!
+GFT100185,Birthday,Backpack,Bags,224.44,17,36,Family,Handmade,USA,2025-05-25,Wishing you a wonderful Birthday.
+GFT100186,Birthday,Teddy Bear,Toys,27.29,44,40,Colleague,Online,UK,2020-09-29,A small gift for your Birthday.
+GFT100187,Anniversary,Couple Watch Set,Accessories,207.24,44,61,Self,Online,India,2021-05-10,With love on your Anniversary.
+GFT100188,Valentine's Day,Plush Toy,Toys,54.63,33,30,Self,In-store,India,2024-06-13,A small gift for your Valentine's Day.
+GFT100189,Valentine's Day,Chocolates,Food,52.94,15,25,Family,In-store,India,2018-10-05,With love on your Valentine's Day.
+GFT100190,Anniversary,Photo Frame,Home Decor,72.81,67,63,Relative,Online,USA,2024-05-03,With love on your Anniversary.
+GFT100191,Wedding,Toaster,Home Appliances,318.07,20,21,Family,Online,Australia,2021-05-24,Wishing you a wonderful Wedding.
+GFT100192,Christmas,Christmas Ornament,Home Decor,48.64,17,16,Colleague,In-store,USA,2018-01-17,With love on your Christmas.
+GFT100193,Eid,Sweets Box,Food,64.68,28,32,Partner,Online,India,2025-11-25,With love on your Eid.
+GFT100194,Wedding,Kitchen Set,Home Appliances,122.63,66,70,Friend,Handmade,Canada,2023-03-23,A small gift for your Wedding.
+GFT100195,Birthday,Backpack,Bags,209.73,25,13,Acquaintance,Online,USA,2023-09-12,Happy Birthday! Hope you like it.
+GFT100196,Christmas,Hot Cocoa Set,Food & Beverage,108.49,57,31,Relative,Handmade,USA,2023-06-17,Happy Christmas! Hope you like it.
+GFT100197,Wedding,Cash Gift,Cash,831.32,49,37,Colleague,In-store,USA,2020-04-22,With love on your Wedding.
+GFT100198,Anniversary,Perfume,Personal Care,169.38,30,27,Relative,Online,UK,2025-12-25,Congrats on your Anniversary!
+GFT100199,Christmas,Toy,Toys,15.79,70,69,Acquaintance,In-store,UAE,2024-12-27,Wishing you a wonderful Christmas.
+GFT100200,Christmas,Toy,Toys,21.96,48,72,Acquaintance,In-store,USA,2018-11-17,A small gift for your Christmas.
+GFT100201,Father's Day,Tool Kit,Tools,123.76,53,70,Partner,In-store,USA,2018-09-09,Congrats on your Father's Day!
+GFT100202,Wedding,Home Decor,Home Decor,222.11,65,79,Family,Online,Australia,2018-05-16,With love on your Wedding.
+GFT100203,Diwali,Lamps (Diyas),Home Decor,270.69,49,33,Colleague,In-store,India,2020-12-11,Wishing you a wonderful Diwali.
+GFT100204,Christmas,Toy,Toys,33.2,30,46,Relative,Online,India,2021-10-14,Wishing you a wonderful Christmas.
+GFT100205,Anniversary,Flowers,Flowers,28.04,39,51,Acquaintance,In-store,USA,2020-01-27,Happy Anniversary! Hope you like it.
+GFT100206,Baby Shower,Toy Set,Baby,33.99,27,36,Colleague,Online,USA,2019-08-13,A small gift for your Baby Shower.
+GFT100207,Housewarming,Cookware,Home Appliances,1116.27,46,46,Colleague,Online,Canada,2018-10-15,A small gift for your Housewarming.
+GFT100208,Birthday,Sunglasses,Accessories,183.17,27,16,Relative,Online,India,2025-09-22,With love on your Birthday.
+GFT100209,Christmas,Hot Cocoa Set,Food & Beverage,229.31,57,60,Colleague,Handmade,Germany,2024-01-07,Wishing you a wonderful Christmas.
+GFT100210,Housewarming,Cookware,Home Appliances,222.17,29,3,Acquaintance,Online,India,2025-08-10,Congrats on your Housewarming!
+GFT100211,Anniversary,Couple Watch Set,Accessories,105.33,46,21,Friend,Online,UAE,2025-12-04,A small gift for your Anniversary.
+GFT100212,Father's Day,Tie,Clothing,5.47,48,24,Self,Online,Canada,2024-01-20,A small gift for your Father's Day.
+GFT100213,Birthday,Cake,Food,62.83,16,17,Self,Online,Germany,2022-12-27,A small gift for your Birthday.
+GFT100214,Wedding,Cash Gift,Cash,585.94,37,24,Family,Online,India,2024-05-18,Happy Wedding! Hope you like it.
+GFT100215,Anniversary,Flowers,Flowers,77.3,42,59,Acquaintance,Online,India,2024-07-01,Wishing you a wonderful Anniversary.
+GFT100216,Father's Day,Gadget,Electronics,558.72,30,41,Friend,Online,UK,2019-10-25,Congrats on your Father's Day!
+GFT100217,Father's Day,Gadget,Electronics,612.53,58,33,Self,In-store,Canada,2018-08-13,A small gift for your Father's Day.
+GFT100218,Eid,Perfume,Personal Care,46.12,37,64,Partner,Online,USA,2018-08-12,Happy Eid! Hope you like it.
+GFT100219,Valentine's Day,Plush Toy,Toys,25.67,25,12,Friend,In-store,USA,2020-04-16,A small gift for your Valentine's Day.
+GFT100220,Diwali,Sweets,Food,47.7,50,48,Colleague,Online,India,2021-06-09,Wishing you a wonderful Diwali.
+GFT100221,Mother's Day,Spa Voucher,Experience,333.23,38,19,Family,Online,India,2021-07-22,With love on your Mother's Day.
+GFT100222,Birthday,Backpack,Bags,191.15,66,72,Relative,Handmade,USA,2025-09-23,Happy Birthday! Hope you like it.
+GFT100223,Housewarming,Indoor Plant,Home Decor,205.71,46,36,Self,In-store,UAE,2025-06-24,With love on your Housewarming.
+GFT100224,Valentine's Day,Love Letter,Home Decor,87.73,24,7,Partner,Online,Germany,2021-10-05,Happy Valentine's Day! Hope you like it.
+GFT100225,Eid,Gift Hamper,Food & Beverage,137.81,34,44,Acquaintance,In-store,India,2025-06-20,With love on your Eid.
+GFT100226,Christmas,Toy,Toys,42.72,44,70,Relative,Online,India,2021-01-21,With love on your Christmas.
+GFT100227,Christmas,Gift Basket,Food & Beverage,19.19,48,36,Partner,In-store,USA,2019-10-30,Happy Christmas! Hope you like it.
+GFT100228,Birthday,Headphones,Electronics,1142.14,48,66,Partner,Online,India,2019-05-01,Wishing you a wonderful Birthday.
+GFT100229,Birthday,Teddy Bear,Toys,14.63,65,42,Self,Online,UAE,2020-01-27,With love on your Birthday.
+GFT100230,Birthday,Teddy Bear,Toys,55.49,47,71,Relative,Online,UK,2020-01-29,Congrats on your Birthday!
+GFT100231,Baby Shower,Baby Clothes,Baby,103.78,68,66,Family,Online,India,2022-10-19,Wishing you a wonderful Baby Shower.
+GFT100232,Father's Day,Tie,Clothing,60.74,29,52,Colleague,In-store,India,2024-07-11,A small gift for your Father's Day.
+GFT100233,Anniversary,Perfume,Personal Care,56.44,58,48,Family,Online,UK,2018-11-10,A small gift for your Anniversary.
+GFT100234,Housewarming,Wall Art,Home Decor,347.34,25,26,Colleague,Online,Canada,2023-06-20,Happy Housewarming! Hope you like it.
+GFT100235,Wedding,Cash Gift,Cash,193.35,55,46,Colleague,Online,India,2022-01-03,Congrats on your Wedding!
+GFT100236,Valentine's Day,Love Letter,Flowers,87.49,51,27,Acquaintance,Online,UK,2020-04-23,With love on your Valentine's Day.
+GFT100237,Christmas,Hot Cocoa Set,Food & Beverage,147.66,51,72,Self,Online,India,2018-11-11,With love on your Christmas.
+GFT100238,Christmas,Gift Basket,Food & Beverage,84.85,42,71,Self,In-store,India,2020-04-01,With love on your Christmas.
+GFT100239,Christmas,Christmas Ornament,Home Decor,302.5,42,39,Relative,Handmade,India,2021-01-22,Wishing you a wonderful Christmas.
+GFT100240,Birthday,Gift Card,Gift Cards,199.36,47,76,Friend,Online,Australia,2023-11-22,With love on your Birthday.
+GFT100241,Christmas,Sweater,Clothing,218.14,45,58,Family,Handmade,Germany,2019-08-17,With love on your Christmas.
+GFT100242,Christmas,Gift Basket,Food & Beverage,88.13,40,69,Partner,Online,UAE,2020-08-22,With love on your Christmas.
+GFT100243,Birthday,Teddy Bear,Toys,59.86,67,72,Relative,Online,UK,2018-08-02,Wishing you a wonderful Birthday.
+GFT100244,Graduation,Certificate Frame,Electronics,763.94,33,15,Friend,Online,India,2022-03-26,A small gift for your Graduation.
+GFT100245,Birthday,Watch,Accessories,178.01,22,6,Relative,Online,UAE,2020-12-26,With love on your Birthday.
+GFT100246,Housewarming,Wall Art,Home Decor,377.15,40,53,Family,In-store,Canada,2024-09-12,With love on your Housewarming.
+GFT100247,Birthday,Headphones,Electronics,754.52,46,75,Partner,In-store,India,2021-07-23,A small gift for your Birthday.
+GFT100248,Christmas,Gift Basket,Food & Beverage,155.06,55,76,Colleague,Online,India,2020-07-30,Wishing you a wonderful Christmas.
+GFT100249,Birthday,Gift Card,Gift Cards,26.85,52,35,Self,Handmade,India,2024-05-26,Wishing you a wonderful Birthday.
+GFT100250,Christmas,Sweater,Clothing,237.29,56,65,Colleague,Online,Canada,2024-05-20,Wishing you a wonderful Christmas.
+GFT100251,Birthday,Watch,Accessories,157.78,42,59,Acquaintance,Handmade,UAE,2024-10-07,Wishing you a wonderful Birthday.
+GFT100252,Valentine's Day,Roses,Flowers,227.85,56,59,Friend,Online,USA,2023-05-11,With love on your Valentine's Day.
+GFT100253,Birthday,Teddy Bear,Toys,30.97,26,49,Colleague,Online,USA,2025-11-25,With love on your Birthday.
+GFT100254,Anniversary,Couple Watch Set,Accessories,204.09,62,70,Relative,Online,UK,2024-12-01,With love on your Anniversary.
+GFT100255,Baby Shower,Baby Blanket,Baby,92.55,24,41,Relative,Online,USA,2018-03-22,Congrats on your Baby Shower!
+GFT100256,Wedding,Kitchen Set,Home Appliances,708.15,60,33,Self,Online,USA,2024-03-16,Happy Wedding! Hope you like it.
+GFT100257,Anniversary,Couple Watch Set,Accessories,246.65,39,35,Acquaintance,Handmade,UK,2022-01-15,Congrats on your Anniversary!
+GFT100258,Mother's Day,Spa Voucher,Experience,278.56,66,40,Partner,Online,UK,2019-05-10,A small gift for your Mother's Day.
+GFT100259,Birthday,Gift Card,Gift Cards,158.93,50,22,Self,Online,UK,2020-04-21,With love on your Birthday.
+GFT100260,Birthday,Gift Card,Gift Cards,144.72,57,42,Family,In-store,USA,2020-07-23,Wishing you a wonderful Birthday.
+GFT100261,Mother's Day,Handbag,Bags,119.04,55,70,Acquaintance,In-store,USA,2021-04-26,Congrats on your Mother's Day!
+GFT100262,Valentine's Day,Love Letter,Experience,217.32,34,9,Friend,Online,India,2019-06-01,A small gift for your Valentine's Day.
+GFT100263,Diwali,Gift Hamper,Food & Beverage,168.09,22,20,Partner,Online,India,2021-10-20,Wishing you a wonderful Diwali.
+GFT100264,Mother's Day,Chocolates,Food,77.41,41,16,Friend,Online,Germany,2023-05-05,Wishing you a wonderful Mother's Day.
+GFT100265,Christmas,Gift Basket,Food & Beverage,27.04,28,27,Colleague,Online,India,2024-04-08,With love on your Christmas.
+GFT100266,Eid,Sweets Box,Food,19.71,50,42,Friend,In-store,USA,2024-06-05,With love on your Eid.
+GFT100267,Wedding,Cutlery Set,Home Appliances,157.25,32,43,Friend,In-store,Canada,2024-05-31,With love on your Wedding.
+GFT100268,Wedding,Toaster,Home Appliances,1040.14,53,43,Colleague,Online,USA,2018-04-06,With love on your Wedding.
+GFT100269,Christmas,Toy,Toys,19.96,35,21,Colleague,Handmade,Germany,2018-08-01,Wishing you a wonderful Christmas.
+GFT100270,Anniversary,Photo Frame,Home Decor,30.5,43,18,Acquaintance,In-store,India,2019-08-07,With love on your Anniversary.
+GFT100271,Wedding,Kitchen Set,Home Appliances,779.55,33,5,Family,In-store,USA,2021-05-16,Happy Wedding! Hope you like it.
+GFT100272,Valentine's Day,Roses,Flowers,10.96,56,85,Friend,In-store,India,2018-02-09,Wishing you a wonderful Valentine's Day.
+GFT100273,Christmas,Hot Cocoa Set,Food & Beverage,179.06,27,25,Friend,Online,India,2021-02-25,With love on your Christmas.
+GFT100274,Birthday,Gift Card,Gift Cards,79.31,19,26,Family,In-store,India,2024-05-23,Wishing you a wonderful Birthday.
+GFT100275,Father's Day,Watch,Accessories,207.63,17,43,Relative,Online,India,2022-09-17,A small gift for your Father's Day.
+GFT100276,Christmas,Sweater,Clothing,158.49,21,21,Family,Handmade,Australia,2021-09-28,A small gift for your Christmas.
+GFT100277,Mother's Day,Flowers,Flowers,13.37,69,63,Colleague,Online,Canada,2020-08-12,A small gift for your Mother's Day.
+GFT100278,Mother's Day,Chocolates,Food,54.62,45,61,Self,Online,India,2018-06-30,Happy Mother's Day! Hope you like it.
+GFT100279,Birthday,Sunglasses,Accessories,184.71,27,47,Friend,Online,UK,2025-10-16,Congrats on your Birthday!
+GFT100280,Graduation,Pen Set,Stationery,24.79,26,48,Friend,Online,India,2018-05-03,A small gift for your Graduation.
+GFT100281,Birthday,Gift Card,Gift Cards,22.36,22,13,Family,Online,India,2022-03-06,Wishing you a wonderful Birthday.
+GFT100282,Eid,Gift Hamper,Food & Beverage,103.23,69,71,Self,In-store,India,2018-11-30,Congrats on your Eid!
+GFT100283,Mother's Day,Chocolates,Food,70.38,30,25,Family,Online,Germany,2024-05-29,Wishing you a wonderful Mother's Day.
+GFT100284,Eid,Perfume,Personal Care,17.71,68,70,Self,Online,India,2021-02-06,Wishing you a wonderful Eid.
+GFT100285,Birthday,Perfume,Personal Care,31.48,40,62,Self,In-store,India,2025-05-03,A small gift for your Birthday.
+GFT100286,Diwali,Lamps (Diyas),Home Decor,367.63,34,64,Relative,Online,Australia,2021-12-23,With love on your Diwali.
+GFT100287,Birthday,Sunglasses,Accessories,169.7,45,21,Partner,Online,USA,2021-06-01,Happy Birthday! Hope you like it.
+GFT100288,Birthday,Headphones,Electronics,352.58,19,13,Acquaintance,Online,Germany,2021-06-22,Congrats on your Birthday!
+GFT100289,Mother's Day,Handbag,Bags,308.15,44,36,Relative,In-store,Australia,2022-05-21,A small gift for your Mother's Day.
+GFT100290,Mother's Day,Spa Voucher,Experience,148.2,63,68,Friend,Handmade,India,2019-03-07,A small gift for your Mother's Day.
+GFT100291,Housewarming,Doormat,Home Decor,145.48,30,45,Colleague,Online,Australia,2019-10-23,Wishing you a wonderful Housewarming.
+GFT100292,Father's Day,Gadget,Electronics,253.9,59,48,Colleague,Online,India,2022-03-26,Wishing you a wonderful Father's Day.
+GFT100293,Eid,Perfume,Personal Care,10.59,40,70,Colleague,Online,India,2021-12-31,With love on your Eid.
+GFT100294,Birthday,Sunglasses,Accessories,89.7,55,69,Colleague,In-store,UAE,2025-10-12,Wishing you a wonderful Birthday.
+GFT100295,Valentine's Day,Love Letter,Clothing,240.75,18,1,Partner,Online,India,2022-03-20,Wishing you a wonderful Valentine's Day.
+GFT100296,Graduation,Backpack,Bags,82.68,58,72,Relative,Online,Germany,2023-11-06,With love on your Graduation.
+GFT100297,Birthday,Watch,Accessories,180.23,43,53,Family,Online,Australia,2018-11-24,With love on your Birthday.
+GFT100298,Valentine's Day,Chocolates,Food,78.77,19,10,Family,In-store,India,2020-02-16,Happy Valentine's Day! Hope you like it.
+GFT100299,Birthday,Headphones,Electronics,688.57,47,62,Colleague,In-store,India,2018-08-25,Congrats on your Birthday!
+GFT100300,Eid,Traditional Clothes,Clothing,244.78,20,23,Family,In-store,India,2022-10-15,With love on your Eid.
+GFT100301,Baby Shower,Feeding Bottle,Baby,47.02,59,55,Self,Online,India,2022-11-01,Wishing you a wonderful Baby Shower.
+GFT100302,Birthday,Teddy Bear,Toys,28.48,19,10,Friend,Online,USA,2025-07-18,Happy Birthday! Hope you like it.
+GFT100303,Birthday,Gift Card,Gift Cards,54.56,40,34,Self,Online,India,2021-09-14,Happy Birthday! Hope you like it.
+GFT100304,Birthday,Sunglasses,Accessories,252.88,66,83,Partner,In-store,India,2023-06-08,Congrats on your Birthday!
+GFT100305,Housewarming,Indoor Plant,Home Decor,113.6,70,69,Family,In-store,UAE,2023-05-29,A small gift for your Housewarming.
+GFT100306,Anniversary,Jewelry,Accessories,207.23,70,54,Self,In-store,UK,2025-03-22,With love on your Anniversary.
+GFT100307,Valentine's Day,Love Letter,Accessories,120.07,18,25,Self,Online,India,2022-10-02,With love on your Valentine's Day.
+GFT100308,Housewarming,Cookware,Home Appliances,257.67,32,56,Relative,Online,UK,2020-06-02,Congrats on your Housewarming!
+GFT100309,Anniversary,Wine,Food & Beverage,266.12,37,55,Colleague,Online,USA,2021-03-05,With love on your Anniversary.
+GFT100310,Baby Shower,Diaper Pack,Baby,39.68,51,27,Relative,In-store,Germany,2022-03-23,Congrats on your Baby Shower!
+GFT100311,Baby Shower,Diaper Pack,Baby,91.32,57,32,Acquaintance,Online,Australia,2022-04-15,With love on your Baby Shower.
+GFT100312,Graduation,Watch,Accessories,16.73,70,90,Self,Online,Australia,2018-03-22,Congrats on your Graduation!
+GFT100313,Wedding,Home Decor,Home Decor,211.0,50,36,Acquaintance,In-store,India,2019-05-26,A small gift for your Wedding.
+GFT100314,Anniversary,Photo Frame,Home Decor,197.39,27,6,Partner,In-store,India,2019-07-04,A small gift for your Anniversary.
+GFT100315,Wedding,Home Decor,Home Decor,174.55,56,78,Self,In-store,USA,2019-09-21,With love on your Wedding.
+GFT100316,Diwali,Clothes,Toys,11.43,26,29,Relative,In-store,USA,2023-06-29,Happy Diwali! Hope you like it.
+GFT100317,Christmas,Hot Cocoa Set,Food & Beverage,6.17,39,45,Relative,Online,UAE,2025-03-03,With love on your Christmas.
+GFT100318,Baby Shower,Diaper Pack,Baby,183.79,20,1,Self,Online,Canada,2024-03-19,Congrats on your Baby Shower!
+GFT100319,Mother's Day,Flowers,Flowers,295.06,48,61,Self,Online,USA,2019-11-22,A small gift for your Mother's Day.
+GFT100320,Eid,Traditional Clothes,Clothing,245.59,56,58,Acquaintance,In-store,UAE,2024-12-05,Congrats on your Eid!
+GFT100321,Birthday,Watch,Accessories,106.39,26,30,Acquaintance,Online,UAE,2025-05-12,Congrats on your Birthday!
+GFT100322,Birthday,Book,Books,5.19,63,82,Colleague,Online,UAE,2022-05-12,Wishing you a wonderful Birthday.
+GFT100323,Birthday,Perfume,Personal Care,34.13,59,44,Relative,In-store,India,2025-12-03,Happy Birthday! Hope you like it.
+GFT100324,Baby Shower,Feeding Bottle,Baby,79.06,47,44,Relative,Online,India,2022-01-29,With love on your Baby Shower.
+GFT100325,Eid,Gift Hamper,Food & Beverage,156.85,38,55,Acquaintance,Online,UK,2020-09-02,With love on your Eid.
+GFT100326,Birthday,Sunglasses,Accessories,170.24,50,65,Partner,In-store,Canada,2024-04-14,With love on your Birthday.
+GFT100327,Father's Day,Tie,Clothing,272.47,25,23,Acquaintance,Online,USA,2022-05-18,Congrats on your Father's Day!
+GFT100328,Graduation,Backpack,Bags,86.53,23,10,Acquaintance,In-store,UK,2020-10-16,Wishing you a wonderful Graduation.
+GFT100329,Wedding,Toaster,Home Appliances,786.69,64,94,Acquaintance,Online,Canada,2025-09-19,Congrats on your Wedding!
+GFT100330,Eid,Perfume,Personal Care,81.5,61,42,Relative,Online,India,2019-12-29,Congrats on your Eid!
+GFT100331,Baby Shower,Diaper Pack,Baby,30.18,53,23,Acquaintance,Handmade,UAE,2019-03-12,A small gift for your Baby Shower.
+GFT100332,Housewarming,Doormat,Home Decor,77.38,16,1,Colleague,Online,India,2021-03-20,Wishing you a wonderful Housewarming.
+GFT100333,Eid,Gift Hamper,Food & Beverage,99.79,57,70,Partner,In-store,India,2019-03-02,With love on your Eid.
+GFT100334,Eid,Perfume,Personal Care,82.07,39,31,Partner,Online,USA,2022-08-23,A small gift for your Eid.
+GFT100335,Mother's Day,Perfume,Personal Care,65.26,50,50,Family,Handmade,India,2021-12-01,With love on your Mother's Day.
+GFT100336,Father's Day,Wallet,Accessories,124.29,25,1,Family,Online,India,2018-11-12,Happy Father's Day! Hope you like it.
+GFT100337,Wedding,Cash Gift,Cash,283.42,44,49,Relative,In-store,UAE,2023-08-18,With love on your Wedding.
+GFT100338,Baby Shower,Baby Blanket,Baby,160.76,42,24,Partner,Online,India,2024-10-06,With love on your Baby Shower.
+GFT100339,Birthday,Gift Card,Gift Cards,70.51,40,42,Family,Online,India,2021-12-28,Wishing you a wonderful Birthday.
+GFT100340,Baby Shower,Baby Clothes,Baby,66.6,25,27,Self,Handmade,UK,2023-11-14,With love on your Baby Shower.
+GFT100341,Christmas,Christmas Ornament,Home Decor,453.49,46,22,Colleague,Online,UAE,2019-10-24,Happy Christmas! Hope you like it.
+GFT100342,Anniversary,Dinner Voucher,Experience,51.72,35,28,Friend,In-store,USA,2020-12-12,Happy Anniversary! Hope you like it.
+GFT100343,Graduation,Certificate Frame,Food,4.02,40,59,Colleague,Online,India,2021-07-23,With love on your Graduation.
+GFT100344,Diwali,Clothes,Home Decor,133.96,32,18,Relative,Online,India,2021-01-26,Congrats on your Diwali!
+GFT100345,Birthday,Backpack,Bags,91.69,65,92,Self,Online,Canada,2024-06-27,A small gift for your Birthday.
+GFT100346,Birthday,Book,Books,60.1,25,33,Colleague,Online,India,2020-02-22,A small gift for your Birthday.
+GFT100347,Diwali,Gift Hamper,Food & Beverage,89.32,33,57,Relative,In-store,USA,2021-03-06,A small gift for your Diwali.
+GFT100348,Eid,Sweets Box,Food,58.86,22,14,Acquaintance,Handmade,USA,2025-03-26,Congrats on your Eid!
+GFT100349,Birthday,Book,Books,64.36,30,35,Colleague,Online,UK,2018-07-31,A small gift for your Birthday.
+GFT100350,Christmas,Hot Cocoa Set,Food & Beverage,58.29,52,31,Friend,In-store,USA,2018-11-19,A small gift for your Christmas.
+GFT100351,Valentine's Day,Love Letter,Tools,54.94,44,73,Self,Online,India,2020-12-09,Wishing you a wonderful Valentine's Day.
+GFT100352,Birthday,Backpack,Bags,73.19,36,28,Colleague,Handmade,USA,2018-01-21,Wishing you a wonderful Birthday.
+GFT100353,Christmas,Gift Basket,Food & Beverage,101.87,46,43,Self,Handmade,UAE,2020-10-21,Wishing you a wonderful Christmas.
+GFT100354,Birthday,Gift Card,Gift Cards,74.23,47,33,Self,Online,UK,2025-03-27,A small gift for your Birthday.
+GFT100355,Valentine's Day,Roses,Flowers,149.49,21,26,Partner,In-store,UAE,2025-07-12,Happy Valentine's Day! Hope you like it.
+GFT100356,Wedding,Vase,Home Decor,100.51,23,46,Colleague,Online,USA,2023-12-01,Happy Wedding! Hope you like it.
+GFT100357,Valentine's Day,Roses,Flowers,24.51,67,37,Family,Online,India,2025-09-17,Congrats on your Valentine's Day!
+GFT100358,Birthday,Perfume,Personal Care,88.17,35,60,Family,In-store,Germany,2022-08-20,Congrats on your Birthday!
+GFT100359,Graduation,Books,Stationery,35.54,44,66,Colleague,Online,India,2020-05-04,A small gift for your Graduation.
+GFT100360,Housewarming,Serving Tray,Home Appliances,282.79,44,70,Friend,In-store,India,2023-03-03,Wishing you a wonderful Housewarming.
+GFT100361,Anniversary,Wine,Food & Beverage,53.94,48,45,Friend,In-store,UK,2019-03-31,Wishing you a wonderful Anniversary.
+GFT100362,Birthday,Watch,Accessories,72.85,59,68,Colleague,In-store,Germany,2025-09-18,Wishing you a wonderful Birthday.
+GFT100363,Birthday,Perfume,Personal Care,136.02,33,56,Family,Online,India,2019-08-24,Happy Birthday! Hope you like it.
+GFT100364,Birthday,Book,Books,27.71,29,41,Family,Online,India,2024-06-23,Congrats on your Birthday!
+GFT100365,Valentine's Day,Love Letter,Books,42.45,36,59,Self,Online,Australia,2024-05-10,With love on your Valentine's Day.
+GFT100366,Anniversary,Flowers,Flowers,140.81,23,15,Partner,In-store,USA,2024-04-15,Wishing you a wonderful Anniversary.
+GFT100367,Diwali,Gift Hamper,Food & Beverage,145.14,58,77,Family,Online,USA,2020-03-28,With love on your Diwali.
+GFT100368,Anniversary,Dinner Voucher,Experience,134.61,23,32,Partner,In-store,USA,2022-03-09,Wishing you a wonderful Anniversary.
+GFT100369,Graduation,Books,Toys,12.9,47,64,Relative,Online,India,2019-08-14,A small gift for your Graduation.
+GFT100370,Housewarming,Wall Art,Home Decor,125.04,22,11,Colleague,Online,India,2020-08-20,A small gift for your Housewarming.
+GFT100371,Anniversary,Photo Frame,Home Decor,109.43,44,40,Acquaintance,Online,India,2023-02-16,Happy Anniversary! Hope you like it.
+GFT100372,Wedding,Toaster,Home Appliances,773.63,37,48,Relative,Online,USA,2019-07-28,With love on your Wedding.
+GFT100373,Mother's Day,Perfume,Personal Care,100.04,57,33,Colleague,Handmade,USA,2020-08-06,Wishing you a wonderful Mother's Day.
+GFT100374,Birthday,Teddy Bear,Toys,27.0,43,56,Partner,Online,Canada,2022-11-13,A small gift for your Birthday.
+GFT100375,Mother's Day,Spa Voucher,Experience,321.68,54,81,Self,In-store,Australia,2022-12-03,Congrats on your Mother's Day!
+GFT100376,Graduation,Laptop,Electronics,532.1,47,36,Colleague,In-store,USA,2019-03-31,A small gift for your Graduation.
+GFT100377,Christmas,Gift Basket,Food & Beverage,225.21,41,49,Relative,In-store,India,2024-03-08,Congrats on your Christmas!
+GFT100378,Eid,Perfume,Personal Care,12.85,59,37,Colleague,In-store,USA,2019-04-19,Congrats on your Eid!
+GFT100379,Birthday,Book,Books,14.77,56,82,Family,Handmade,India,2022-06-18,Congrats on your Birthday!
+GFT100380,Graduation,Certificate Frame,Gift Cards,185.72,54,55,Partner,Online,UAE,2023-11-04,Wishing you a wonderful Graduation.
+GFT100381,Anniversary,Photo Frame,Home Decor,316.5,43,15,Family,Online,India,2022-11-01,A small gift for your Anniversary.
+GFT100382,Birthday,Gift Card,Gift Cards,199.56,61,90,Relative,Online,UAE,2023-12-31,Congrats on your Birthday!
+GFT100383,Christmas,Hot Cocoa Set,Food & Beverage,77.34,64,72,Friend,Online,USA,2021-08-07,With love on your Christmas.
+GFT100384,Father's Day,Tie,Clothing,118.63,70,79,Relative,Online,India,2018-06-07,Wishing you a wonderful Father's Day.
+GFT100385,Baby Shower,Baby Blanket,Baby,121.99,58,54,Friend,In-store,Germany,2019-08-10,Happy Baby Shower! Hope you like it.
+GFT100386,Anniversary,Perfume,Personal Care,50.48,68,75,Friend,In-store,India,2025-04-13,Happy Anniversary! Hope you like it.
+GFT100387,Diwali,Lamps (Diyas),Home Decor,23.49,62,39,Relative,Online,Canada,2022-08-07,With love on your Diwali.
+GFT100388,Birthday,Headphones,Electronics,1000.86,24,30,Colleague,In-store,Canada,2020-01-07,Congrats on your Birthday!
+GFT100389,Birthday,Perfume,Personal Care,104.4,36,43,Self,In-store,UAE,2018-07-05,Happy Birthday! Hope you like it.
+GFT100390,Housewarming,Doormat,Home Decor,301.09,32,62,Acquaintance,Online,India,2021-10-29,Happy Housewarming! Hope you like it.
+GFT100391,Wedding,Home Decor,Home Decor,277.8,25,13,Partner,Handmade,Canada,2020-08-06,With love on your Wedding.
+GFT100392,Birthday,Cake,Food,98.83,69,46,Colleague,In-store,USA,2018-12-22,Wishing you a wonderful Birthday.
+GFT100393,Diwali,Sweets,Food,11.47,55,27,Relative,In-store,India,2024-07-29,Congrats on your Diwali!
+GFT100394,Father's Day,Wallet,Accessories,61.56,30,40,Partner,Online,UK,2020-01-08,With love on your Father's Day.
+GFT100395,Father's Day,Watch,Accessories,139.33,64,90,Colleague,In-store,Germany,2024-09-27,Congrats on your Father's Day!
+GFT100396,Baby Shower,Baby Clothes,Baby,100.01,49,32,Acquaintance,In-store,UAE,2024-11-17,A small gift for your Baby Shower.
+GFT100397,Valentine's Day,Couple Ring,Accessories,14.68,28,33,Relative,Online,India,2018-03-24,A small gift for your Valentine's Day.
+GFT100398,Birthday,Sunglasses,Accessories,82.91,68,72,Self,Handmade,India,2024-08-06,Congrats on your Birthday!
+GFT100399,Birthday,Gift Card,Gift Cards,54.08,38,56,Self,In-store,USA,2024-06-24,Happy Birthday! Hope you like it.
+GFT100400,Valentine's Day,Chocolates,Food,27.98,34,51,Partner,In-store,India,2025-09-23,A small gift for your Valentine's Day.
+GFT100401,Graduation,Laptop,Electronics,312.92,43,68,Friend,Online,USA,2019-12-01,A small gift for your Graduation.
+GFT100402,Christmas,Hot Cocoa Set,Food & Beverage,74.96,36,65,Relative,In-store,Germany,2019-07-09,Wishing you a wonderful Christmas.
+GFT100403,Christmas,Toy,Toys,30.63,70,67,Self,In-store,India,2022-07-10,With love on your Christmas.
+GFT100404,Wedding,Vase,Home Decor,127.61,29,12,Friend,Handmade,UK,2019-08-11,Wishing you a wonderful Wedding.
+GFT100405,Christmas,Sweater,Clothing,143.03,55,78,Partner,In-store,Australia,2024-04-14,Congrats on your Christmas!
+GFT100406,Christmas,Gift Basket,Food & Beverage,190.33,52,41,Partner,Online,India,2020-11-05,A small gift for your Christmas.
+GFT100407,Eid,Perfume,Personal Care,86.33,54,81,Relative,Online,Canada,2019-06-24,Happy Eid! Hope you like it.
+GFT100408,Christmas,Sweater,Clothing,9.6,57,69,Friend,Online,Australia,2023-08-17,Wishing you a wonderful Christmas.
+GFT100409,Housewarming,Indoor Plant,Home Decor,5.64,52,62,Friend,In-store,Australia,2020-06-09,With love on your Housewarming.
+GFT100410,Christmas,Hot Cocoa Set,Food & Beverage,171.25,37,44,Partner,Online,UK,2023-01-16,Wishing you a wonderful Christmas.
+GFT100411,Birthday,Sunglasses,Accessories,106.5,23,22,Self,Online,USA,2025-05-20,A small gift for your Birthday.
+GFT100412,Eid,Perfume,Personal Care,46.03,61,54,Self,Online,UK,2021-05-14,Happy Eid! Hope you like it.
+GFT100413,Diwali,Lamps (Diyas),Home Decor,45.01,20,9,Acquaintance,In-store,Australia,2023-02-22,Congrats on your Diwali!
+GFT100414,Birthday,Watch,Accessories,55.71,60,45,Acquaintance,Handmade,India,2021-07-27,Wishing you a wonderful Birthday.
+GFT100415,Valentine's Day,Heart Necklace,Accessories,150.92,27,1,Family,Online,India,2022-04-23,Wishing you a wonderful Valentine's Day.
+GFT100416,Christmas,Gift Basket,Food & Beverage,78.22,46,57,Relative,Online,Canada,2021-05-25,Congrats on your Christmas!
+GFT100417,Anniversary,Couple Watch Set,Accessories,180.84,61,86,Colleague,Online,USA,2018-06-13,Happy Anniversary! Hope you like it.
+GFT100418,Father's Day,Tie,Clothing,125.34,23,39,Family,In-store,USA,2021-01-30,With love on your Father's Day.
+GFT100419,Diwali,Home Decor,Home Decor,15.43,62,48,Relative,In-store,Germany,2022-11-11,Happy Diwali! Hope you like it.
+GFT100420,Mother's Day,Chocolates,Food,61.72,65,61,Relative,Online,India,2024-09-19,With love on your Mother's Day.
+GFT100421,Birthday,Cake,Food,55.03,39,25,Colleague,Online,Germany,2018-11-18,Congrats on your Birthday!
+GFT100422,Wedding,Cutlery Set,Home Appliances,135.85,53,83,Acquaintance,Online,India,2020-05-15,Happy Wedding! Hope you like it.
+GFT100423,Wedding,Kitchen Set,Home Appliances,872.78,33,55,Colleague,Online,Germany,2022-06-27,With love on your Wedding.
+GFT100424,Birthday,Book,Books,57.45,20,50,Partner,Online,UK,2025-05-03,Congrats on your Birthday!
+GFT100425,Wedding,Kitchen Set,Home Appliances,101.81,68,59,Acquaintance,Handmade,India,2023-03-09,Happy Wedding! Hope you like it.
+GFT100426,Birthday,Watch,Accessories,196.13,38,33,Relative,Handmade,UK,2022-12-08,Congrats on your Birthday!
+GFT100427,Mother's Day,Flowers,Flowers,97.0,36,56,Colleague,In-store,USA,2024-08-31,Happy Mother's Day! Hope you like it.
+GFT100428,Housewarming,Cookware,Home Appliances,378.74,34,13,Self,Online,India,2023-09-15,A small gift for your Housewarming.
+GFT100429,Christmas,Board Game,Toys,50.43,22,33,Family,Online,USA,2025-02-28,Happy Christmas! Hope you like it.
+GFT100430,Father's Day,Gadget,Electronics,425.07,29,43,Relative,Online,India,2024-10-31,With love on your Father's Day.
+GFT100431,Wedding,Toaster,Home Appliances,584.11,28,36,Colleague,Online,India,2022-10-27,Happy Wedding! Hope you like it.
+GFT100432,Baby Shower,Baby Blanket,Baby,68.49,22,40,Family,Online,India,2023-09-19,Congrats on your Baby Shower!
+GFT100433,Christmas,Christmas Ornament,Home Decor,65.78,27,46,Colleague,In-store,Germany,2024-11-04,Wishing you a wonderful Christmas.
+GFT100434,Anniversary,Photo Frame,Home Decor,148.94,37,48,Acquaintance,Online,USA,2021-01-28,Happy Anniversary! Hope you like it.
+GFT100435,Mother's Day,Spa Voucher,Experience,193.28,64,76,Colleague,In-store,UAE,2023-06-18,Wishing you a wonderful Mother's Day.
+GFT100436,Anniversary,Photo Frame,Home Decor,56.13,63,75,Partner,Online,Australia,2025-09-25,Happy Anniversary! Hope you like it.
+GFT100437,Birthday,Perfume,Personal Care,130.02,66,39,Acquaintance,Online,UAE,2023-09-30,With love on your Birthday.
+GFT100438,Birthday,Sunglasses,Accessories,165.13,58,55,Acquaintance,Online,USA,2019-09-16,With love on your Birthday.
+GFT100439,Birthday,Book,Books,37.8,37,64,Relative,In-store,India,2019-08-31,Wishing you a wonderful Birthday.
+GFT100440,Anniversary,Flowers,Flowers,169.95,39,10,Colleague,In-store,Germany,2020-05-04,Congrats on your Anniversary!
+GFT100441,Birthday,Backpack,Bags,279.12,47,24,Colleague,Online,India,2022-09-17,Congrats on your Birthday!
+GFT100442,Diwali,Sweets,Food,92.07,23,37,Colleague,In-store,India,2020-05-09,With love on your Diwali.
+GFT100443,Valentine's Day,Plush Toy,Toys,85.18,17,34,Acquaintance,Online,USA,2024-01-19,Congrats on your Valentine's Day!
+GFT100444,Housewarming,Serving Tray,Home Appliances,751.39,54,66,Relative,Online,USA,2024-05-28,Wishing you a wonderful Housewarming.
+GFT100445,Birthday,Headphones,Electronics,661.54,38,50,Family,Online,UAE,2018-05-21,Congrats on your Birthday!
+GFT100446,Graduation,Backpack,Bags,294.58,36,27,Family,Online,Australia,2023-06-20,A small gift for your Graduation.
+GFT100447,Christmas,Sweater,Clothing,370.97,26,21,Acquaintance,Handmade,UAE,2020-03-09,Wishing you a wonderful Christmas.
+GFT100448,Father's Day,Wallet,Accessories,18.46,24,28,Self,Online,India,2018-07-20,Congrats on your Father's Day!
+GFT100449,Anniversary,Photo Frame,Home Decor,96.34,65,45,Relative,Online,USA,2020-10-15,With love on your Anniversary.
+GFT100450,Birthday,Gift Card,Gift Cards,45.2,19,45,Acquaintance,Handmade,India,2021-01-19,Happy Birthday! Hope you like it.
+GFT100451,Valentine's Day,Heart Necklace,Accessories,114.15,64,51,Acquaintance,In-store,India,2020-10-27,A small gift for your Valentine's Day.
+GFT100452,Anniversary,Couple Watch Set,Accessories,51.17,68,88,Relative,Handmade,USA,2019-04-27,Wishing you a wonderful Anniversary.
+GFT100453,Valentine's Day,Love Letter,Bags,181.16,41,62,Friend,In-store,Germany,2020-11-04,With love on your Valentine's Day.
+GFT100454,Mother's Day,Perfume,Personal Care,43.45,62,83,Acquaintance,Handmade,India,2021-06-06,Happy Mother's Day! Hope you like it.
+GFT100455,Eid,Sweets Box,Food,76.14,26,21,Self,In-store,India,2019-01-06,A small gift for your Eid.
+GFT100456,Eid,Gift Hamper,Food & Beverage,133.74,68,82,Family,Online,India,2025-04-07,Wishing you a wonderful Eid.
+GFT100457,Birthday,Gift Card,Gift Cards,126.3,30,20,Self,Online,UAE,2019-07-05,With love on your Birthday.
+GFT100458,Father's Day,Wallet,Accessories,134.47,42,16,Family,Online,USA,2025-04-17,Happy Father's Day! Hope you like it.
+GFT100459,Father's Day,Tie,Clothing,129.04,41,20,Acquaintance,Online,UK,2021-07-12,Happy Father's Day! Hope you like it.
+GFT100460,Diwali,Sweets,Food,10.26,58,52,Acquaintance,Online,UK,2019-07-22,With love on your Diwali.
+GFT100461,Birthday,Gift Card,Gift Cards,94.49,15,1,Partner,Online,India,2024-05-15,A small gift for your Birthday.
+GFT100462,Valentine's Day,Roses,Flowers,172.04,22,43,Partner,Handmade,India,2025-08-29,Wishing you a wonderful Valentine's Day.
+GFT100463,Wedding,Kitchen Set,Home Appliances,566.38,45,66,Acquaintance,Handmade,Canada,2024-08-18,Happy Wedding! Hope you like it.
+GFT100464,Father's Day,Tool Kit,Tools,90.71,46,66,Acquaintance,Online,UK,2018-08-14,A small gift for your Father's Day.
+GFT100465,Mother's Day,Spa Voucher,Experience,54.27,28,4,Colleague,Handmade,Germany,2025-12-28,With love on your Mother's Day.
+GFT100466,Birthday,Cake,Food,73.7,57,43,Colleague,In-store,Canada,2025-01-08,With love on your Birthday.
+GFT100467,Birthday,Gift Card,Gift Cards,171.54,35,15,Relative,Online,UK,2025-10-17,Congrats on your Birthday!
+GFT100468,Anniversary,Dinner Voucher,Experience,231.99,38,36,Relative,Online,USA,2018-06-18,A small gift for your Anniversary.
+GFT100469,Housewarming,Cookware,Home Appliances,264.24,19,42,Family,In-store,India,2019-10-22,Wishing you a wonderful Housewarming.
+GFT100470,Wedding,Cutlery Set,Home Appliances,894.19,16,27,Acquaintance,Handmade,UAE,2025-03-26,Congrats on your Wedding!
+GFT100471,Anniversary,Photo Frame,Home Decor,225.61,66,55,Family,Online,USA,2024-01-27,Wishing you a wonderful Anniversary.
+GFT100472,Diwali,Lamps (Diyas),Home Decor,154.6,44,49,Acquaintance,In-store,USA,2025-03-22,With love on your Diwali.
+GFT100473,Birthday,Teddy Bear,Toys,28.1,51,70,Family,In-store,USA,2020-03-21,Wishing you a wonderful Birthday.
+GFT100474,Christmas,Toy,Toys,51.62,28,17,Acquaintance,Online,UK,2021-07-16,A small gift for your Christmas.
+GFT100475,Eid,Gift Hamper,Food & Beverage,81.91,21,39,Friend,Online,India,2022-04-03,Congrats on your Eid!
+GFT100476,Birthday,Watch,Accessories,201.65,57,39,Relative,Online,Canada,2018-12-07,With love on your Birthday.
+GFT100477,Graduation,Watch,Accessories,169.85,57,32,Partner,Online,India,2024-12-31,Happy Graduation! Hope you like it.
+GFT100478,Housewarming,Indoor Plant,Home Decor,371.36,20,41,Relative,Handmade,Germany,2019-04-10,Happy Housewarming! Hope you like it.
+GFT100479,Mother's Day,Flowers,Flowers,23.01,60,38,Family,Handmade,UAE,2020-01-31,Happy Mother's Day! Hope you like it.
+GFT100480,Baby Shower,Baby Clothes,Baby,121.32,31,10,Self,Online,India,2019-05-23,Happy Baby Shower! Hope you like it.
+GFT100481,Birthday,Book,Books,37.17,54,72,Acquaintance,Online,UK,2023-01-01,Happy Birthday! Hope you like it.
+GFT100482,Diwali,Sweets,Food,59.66,44,70,Colleague,Online,Australia,2022-07-10,Congrats on your Diwali!
+GFT100483,Father's Day,Tie,Clothing,9.17,27,1,Colleague,Online,India,2024-02-29,With love on your Father's Day.
+GFT100484,Birthday,Backpack,Bags,108.25,58,67,Colleague,In-store,USA,2023-12-10,With love on your Birthday.
+GFT100485,Valentine's Day,Heart Necklace,Accessories,214.25,35,55,Relative,Online,UAE,2025-12-10,A small gift for your Valentine's Day.
+GFT100486,Graduation,Backpack,Bags,337.89,45,30,Family,In-store,India,2024-12-17,Congrats on your Graduation!
+GFT100487,Wedding,Cutlery Set,Home Appliances,241.41,33,4,Friend,In-store,Canada,2018-11-19,With love on your Wedding.
+GFT100488,Christmas,Christmas Ornament,Home Decor,264.59,55,52,Relative,Online,India,2024-11-16,Happy Christmas! Hope you like it.
+GFT100489,Graduation,Pen Set,Stationery,13.33,41,52,Acquaintance,Online,India,2019-01-02,Wishing you a wonderful Graduation.
+GFT100490,Christmas,Sweater,Clothing,239.0,46,17,Relative,In-store,USA,2018-10-06,Happy Christmas! Hope you like it.
+GFT100491,Birthday,Watch,Accessories,51.28,31,26,Friend,In-store,USA,2022-12-30,A small gift for your Birthday.
+GFT100492,Diwali,Home Decor,Home Decor,173.53,47,18,Partner,Online,Australia,2021-09-29,Wishing you a wonderful Diwali.
+GFT100493,Christmas,Hot Cocoa Set,Food & Beverage,8.31,61,67,Family,Online,India,2025-03-30,Wishing you a wonderful Christmas.
+GFT100494,Diwali,Gift Hamper,Food & Beverage,257.68,44,69,Self,In-store,India,2018-04-03,A small gift for your Diwali.
+GFT100495,Christmas,Hot Cocoa Set,Food & Beverage,241.68,30,44,Colleague,In-store,UAE,2018-06-30,A small gift for your Christmas.
+GFT100496,Mother's Day,Handbag,Bags,199.31,37,56,Partner,Online,UK,2023-07-19,A small gift for your Mother's Day.
+GFT100497,Christmas,Toy,Toys,31.92,28,50,Relative,Online,Australia,2019-04-04,A small gift for your Christmas.
+GFT100498,Wedding,Home Decor,Home Decor,132.16,55,66,Colleague,Online,UK,2020-02-11,Happy Wedding! Hope you like it.
+GFT100499,Father's Day,Gadget,Electronics,942.71,37,49,Colleague,Online,USA,2021-11-06,Congrats on your Father's Day!
+GFT100500,Valentine's Day,Heart Necklace,Accessories,203.71,39,11,Colleague,In-store,India,2020-10-29,A small gift for your Valentine's Day.
+GFT100501,Birthday,Cake,Food,27.05,26,25,Partner,In-store,India,2024-01-04,Happy Birthday! Hope you like it.
+GFT100502,Anniversary,Flowers,Flowers,62.58,70,83,Self,In-store,India,2022-12-27,Happy Anniversary! Hope you like it.
+GFT100503,Birthday,Teddy Bear,Toys,38.1,40,42,Family,Handmade,Germany,2019-05-11,Happy Birthday! Hope you like it.
+GFT100504,Birthday,Teddy Bear,Toys,34.55,48,18,Partner,In-store,India,2020-09-25,Congrats on your Birthday!
+GFT100505,Mother's Day,Spa Voucher,Experience,49.93,29,51,Partner,Online,Canada,2018-06-25,With love on your Mother's Day.
+GFT100506,Mother's Day,Flowers,Flowers,9.41,20,35,Acquaintance,Online,UK,2022-02-22,With love on your Mother's Day.
+GFT100507,Valentine's Day,Plush Toy,Toys,24.19,36,40,Self,In-store,India,2025-01-20,With love on your Valentine's Day.
+GFT100508,Eid,Perfume,Personal Care,55.34,38,53,Self,Online,India,2023-03-11,A small gift for your Eid.
+GFT100509,Christmas,Sweater,Clothing,44.02,40,10,Friend,Online,UAE,2023-07-21,Congrats on your Christmas!
+GFT100510,Eid,Perfume,Personal Care,42.99,58,55,Family,Online,UK,2018-09-03,Happy Eid! Hope you like it.
+GFT100511,Birthday,Gift Card,Gift Cards,96.05,32,53,Colleague,Online,India,2022-07-23,Wishing you a wonderful Birthday.
+GFT100512,Anniversary,Photo Frame,Home Decor,360.96,28,54,Relative,Online,Australia,2023-11-17,With love on your Anniversary.
+GFT100513,Anniversary,Wine,Food & Beverage,189.01,30,41,Relative,Online,Canada,2018-03-31,Congrats on your Anniversary!
+GFT100514,Wedding,Cutlery Set,Home Appliances,218.87,60,88,Family,Online,UK,2018-07-25,With love on your Wedding.
+GFT100515,Birthday,Gift Card,Gift Cards,42.37,16,37,Family,In-store,India,2019-02-20,With love on your Birthday.
+GFT100516,Mother's Day,Spa Voucher,Experience,41.51,68,61,Self,In-store,USA,2023-02-07,Wishing you a wonderful Mother's Day.
+GFT100517,Baby Shower,Diaper Pack,Baby,117.03,48,77,Colleague,Online,Germany,2019-06-02,Happy Baby Shower! Hope you like it.
+GFT100518,Birthday,Book,Books,17.46,43,29,Colleague,Online,Canada,2022-03-02,Wishing you a wonderful Birthday.
+GFT100519,Christmas,Toy,Toys,41.39,47,27,Friend,Handmade,India,2025-12-22,A small gift for your Christmas.
+GFT100520,Anniversary,Flowers,Flowers,98.56,24,53,Acquaintance,Online,UK,2022-12-07,With love on your Anniversary.
+GFT100521,Birthday,Cake,Food,7.77,29,28,Family,Handmade,USA,2018-11-24,Congrats on your Birthday!
+GFT100522,Mother's Day,Perfume,Personal Care,39.08,45,32,Partner,Handmade,India,2022-07-16,Happy Mother's Day! Hope you like it.
+GFT100523,Diwali,Gift Hamper,Food & Beverage,69.56,64,54,Friend,Online,Australia,2019-09-23,Congrats on your Diwali!
+GFT100524,Christmas,Sweater,Clothing,20.26,49,46,Colleague,In-store,UAE,2025-10-27,Wishing you a wonderful Christmas.
+GFT100525,Diwali,Sweets,Food,34.06,46,22,Partner,Online,UK,2023-11-25,Happy Diwali! Hope you like it.
+GFT100526,Mother's Day,Perfume,Personal Care,108.0,30,50,Acquaintance,Online,India,2020-09-12,Congrats on your Mother's Day!
+GFT100527,Birthday,Teddy Bear,Toys,9.4,45,56,Friend,Online,India,2021-11-14,Happy Birthday! Hope you like it.
+GFT100528,Birthday,Gift Card,Gift Cards,172.17,36,15,Friend,In-store,India,2024-10-09,Congrats on your Birthday!
+GFT100529,Diwali,Lamps (Diyas),Home Decor,45.62,54,36,Colleague,In-store,Canada,2018-06-11,Congrats on your Diwali!
+GFT100530,Diwali,Home Decor,Home Decor,34.86,67,51,Relative,Handmade,India,2020-12-22,Happy Diwali! Hope you like it.
+GFT100531,Christmas,Sweater,Clothing,17.03,57,62,Partner,In-store,Germany,2022-05-13,A small gift for your Christmas.
+GFT100532,Housewarming,Cookware,Home Appliances,943.31,59,64,Relative,Online,UAE,2019-05-13,Happy Housewarming! Hope you like it.
+GFT100533,Diwali,Sweets,Food,15.96,16,44,Self,In-store,Australia,2018-12-20,Happy Diwali! Hope you like it.
+GFT100534,Birthday,Book,Books,31.12,29,52,Relative,Handmade,Australia,2024-04-02,Congrats on your Birthday!
+GFT100535,Valentine's Day,Love Letter,Toys,34.45,50,66,Acquaintance,Online,UK,2018-05-14,With love on your Valentine's Day.
+GFT100536,Anniversary,Photo Frame,Home Decor,252.54,26,41,Friend,In-store,UAE,2024-10-05,A small gift for your Anniversary.
+GFT100537,Father's Day,Watch,Accessories,34.87,34,10,Colleague,In-store,India,2022-09-18,Happy Father's Day! Hope you like it.
+GFT100538,Graduation,Pen Set,Stationery,41.98,16,16,Family,In-store,India,2025-08-27,A small gift for your Graduation.
+GFT100539,Anniversary,Wine,Food & Beverage,178.03,60,56,Partner,In-store,USA,2019-04-15,Congrats on your Anniversary!
+GFT100540,Wedding,Vase,Home Decor,99.2,41,17,Partner,Online,India,2025-04-08,Happy Wedding! Hope you like it.
+GFT100541,Father's Day,Watch,Accessories,69.47,44,47,Partner,Online,India,2021-03-22,Wishing you a wonderful Father's Day.
+GFT100542,Anniversary,Jewelry,Accessories,248.11,50,52,Relative,Handmade,India,2022-02-27,A small gift for your Anniversary.
+GFT100543,Anniversary,Flowers,Flowers,157.01,16,6,Acquaintance,In-store,USA,2024-05-15,With love on your Anniversary.
+GFT100544,Birthday,Cake,Food,26.47,46,30,Colleague,Handmade,India,2018-11-09,Happy Birthday! Hope you like it.
+GFT100545,Wedding,Kitchen Set,Home Appliances,673.16,28,3,Partner,Handmade,UK,2019-01-19,With love on your Wedding.
+GFT100546,Mother's Day,Chocolates,Food,60.15,37,55,Colleague,Online,India,2019-02-04,A small gift for your Mother's Day.
+GFT100547,Birthday,Gift Card,Gift Cards,43.58,19,42,Family,Online,India,2022-03-15,Happy Birthday! Hope you like it.
+GFT100548,Wedding,Vase,Home Decor,226.59,53,57,Relative,Online,UAE,2022-10-07,Wishing you a wonderful Wedding.
+GFT100549,Graduation,Watch,Accessories,78.09,56,63,Relative,In-store,India,2023-10-23,Wishing you a wonderful Graduation.
+GFT100550,Wedding,Kitchen Set,Home Appliances,575.05,48,27,Self,Online,USA,2025-02-09,A small gift for your Wedding.
+GFT100551,Birthday,Book,Books,45.66,49,60,Partner,Online,UK,2024-10-13,Happy Birthday! Hope you like it.
+GFT100552,Baby Shower,Toy Set,Baby,93.12,45,17,Self,Online,India,2024-09-20,Happy Baby Shower! Hope you like it.
+GFT100553,Birthday,Gift Card,Gift Cards,77.34,17,27,Colleague,Online,India,2022-08-08,A small gift for your Birthday.
+GFT100554,Father's Day,Gadget,Electronics,1204.42,31,55,Relative,Online,UAE,2023-08-04,Wishing you a wonderful Father's Day.
+GFT100555,Christmas,Toy,Toys,7.29,61,85,Self,Online,India,2020-10-28,Happy Christmas! Hope you like it.
+GFT100556,Christmas,Sweater,Clothing,215.97,34,30,Acquaintance,Online,India,2024-06-16,A small gift for your Christmas.
+GFT100557,Christmas,Sweater,Clothing,74.32,63,85,Partner,Online,USA,2024-08-01,With love on your Christmas.
+GFT100558,Father's Day,Tool Kit,Tools,115.53,41,65,Friend,In-store,UAE,2024-11-11,A small gift for your Father's Day.
+GFT100559,Christmas,Gift Basket,Food & Beverage,227.37,36,36,Relative,In-store,India,2021-03-07,A small gift for your Christmas.
+GFT100560,Birthday,Sunglasses,Accessories,161.9,41,23,Family,In-store,India,2020-06-02,A small gift for your Birthday.
+GFT100561,Graduation,Backpack,Bags,371.32,62,34,Self,In-store,India,2019-06-12,Congrats on your Graduation!
+GFT100562,Mother's Day,Flowers,Flowers,60.1,42,44,Self,Online,USA,2023-06-12,Congrats on your Mother's Day!
+GFT100563,Christmas,Board Game,Toys,66.53,28,12,Relative,Online,Canada,2018-08-07,Happy Christmas! Hope you like it.
+GFT100564,Graduation,Watch,Accessories,200.48,51,72,Colleague,In-store,UK,2024-03-13,A small gift for your Graduation.
+GFT100565,Housewarming,Wall Art,Home Decor,145.92,67,51,Partner,In-store,Canada,2022-10-27,Congrats on your Housewarming!
+GFT100566,Wedding,Toaster,Home Appliances,687.42,48,26,Relative,In-store,Canada,2021-03-12,Happy Wedding! Hope you like it.
+GFT100567,Father's Day,Tie,Clothing,153.21,15,20,Colleague,In-store,India,2025-09-09,Wishing you a wonderful Father's Day.
+GFT100568,Housewarming,Serving Tray,Home Appliances,949.96,42,50,Colleague,Handmade,India,2018-08-14,Happy Housewarming! Hope you like it.
+GFT100569,Mother's Day,Handbag,Bags,218.16,27,52,Self,Handmade,UK,2025-01-12,Wishing you a wonderful Mother's Day.
+GFT100570,Birthday,Book,Books,27.78,45,74,Colleague,Handmade,UAE,2024-05-04,A small gift for your Birthday.
+GFT100571,Birthday,Gift Card,Gift Cards,69.69,25,38,Friend,Online,India,2022-04-05,Happy Birthday! Hope you like it.
+GFT100572,Birthday,Sunglasses,Accessories,172.65,17,39,Friend,Online,India,2018-08-05,Wishing you a wonderful Birthday.
+GFT100573,Christmas,Hot Cocoa Set,Food & Beverage,202.18,41,21,Self,Online,Canada,2023-07-06,A small gift for your Christmas.
+GFT100574,Christmas,Toy,Toys,15.09,45,59,Friend,Online,UAE,2020-08-24,Congrats on your Christmas!
+GFT100575,Christmas,Christmas Ornament,Home Decor,135.65,61,35,Self,In-store,UAE,2018-10-25,A small gift for your Christmas.
+GFT100576,Birthday,Sunglasses,Accessories,226.08,42,58,Self,In-store,India,2021-04-10,Wishing you a wonderful Birthday.
+GFT100577,Anniversary,Photo Frame,Home Decor,190.53,57,38,Friend,Handmade,USA,2022-04-08,Happy Anniversary! Hope you like it.
+GFT100578,Diwali,Sweets,Food,58.53,15,10,Relative,Online,UK,2020-08-30,With love on your Diwali.
+GFT100579,Birthday,Gift Card,Gift Cards,165.35,23,15,Acquaintance,In-store,India,2025-02-27,Wishing you a wonderful Birthday.
+GFT100580,Graduation,Backpack,Bags,112.66,36,30,Family,Handmade,India,2024-08-10,Wishing you a wonderful Graduation.
+GFT100581,Father's Day,Wallet,Accessories,113.95,31,15,Friend,Online,UK,2019-05-07,A small gift for your Father's Day.
+GFT100582,Mother's Day,Flowers,Flowers,160.81,28,50,Colleague,Online,Germany,2023-11-19,Happy Mother's Day! Hope you like it.
+GFT100583,Anniversary,Wine,Food & Beverage,24.42,61,84,Family,In-store,India,2022-01-18,Wishing you a wonderful Anniversary.
+GFT100584,Anniversary,Photo Frame,Home Decor,319.22,47,38,Relative,In-store,India,2025-02-02,With love on your Anniversary.
+GFT100585,Housewarming,Wall Art,Home Decor,269.12,56,82,Family,Online,India,2025-03-17,Happy Housewarming! Hope you like it.
+GFT100586,Mother's Day,Perfume,Personal Care,65.47,42,40,Relative,In-store,Canada,2021-04-13,Congrats on your Mother's Day!
+GFT100587,Birthday,Watch,Accessories,64.13,34,43,Friend,Online,Canada,2019-01-04,A small gift for your Birthday.
+GFT100588,Anniversary,Dinner Voucher,Experience,301.66,17,7,Family,In-store,USA,2025-07-06,Congrats on your Anniversary!
+GFT100589,Valentine's Day,Love Letter,Baby,34.21,24,30,Self,Handmade,India,2022-08-15,Wishing you a wonderful Valentine's Day.
+GFT100590,Diwali,Clothes,Clothing,40.88,62,88,Colleague,Online,Australia,2021-04-02,Wishing you a wonderful Diwali.
+GFT100591,Eid,Perfume,Personal Care,109.18,61,38,Family,Online,Germany,2021-08-31,Wishing you a wonderful Eid.
+GFT100592,Wedding,Home Decor,Home Decor,286.99,51,49,Partner,In-store,UK,2025-11-27,With love on your Wedding.
+GFT100593,Graduation,Pen Set,Stationery,7.66,28,53,Relative,Online,UAE,2019-01-19,Happy Graduation! Hope you like it.
+GFT100594,Mother's Day,Chocolates,Food,45.9,24,19,Friend,In-store,Canada,2019-04-19,Wishing you a wonderful Mother's Day.
+GFT100595,Birthday,Backpack,Bags,41.62,54,71,Relative,Online,India,2020-02-28,Congrats on your Birthday!
+GFT100596,Valentine's Day,Chocolates,Food,48.91,53,41,Colleague,Online,Australia,2024-08-19,Wishing you a wonderful Valentine's Day.
+GFT100597,Baby Shower,Toy Set,Baby,25.65,35,39,Partner,Online,Canada,2019-06-18,Wishing you a wonderful Baby Shower.
+GFT100598,Father's Day,Watch,Accessories,175.62,23,48,Partner,Online,UAE,2019-03-15,With love on your Father's Day.
+GFT100599,Anniversary,Perfume,Personal Care,96.62,58,77,Partner,Online,USA,2019-12-08,Wishing you a wonderful Anniversary.
+GFT100600,Anniversary,Perfume,Personal Care,111.81,17,21,Friend,Online,Australia,2025-07-08,With love on your Anniversary.
+GFT100601,Christmas,Christmas Ornament,Home Decor,199.73,26,3,Relative,Online,India,2022-11-18,Wishing you a wonderful Christmas.
+GFT100602,Valentine's Day,Couple Ring,Accessories,113.06,20,12,Self,Online,India,2019-07-21,Congrats on your Valentine's Day!
+GFT100603,Birthday,Watch,Accessories,118.76,63,77,Acquaintance,In-store,UK,2024-06-09,Happy Birthday! Hope you like it.
+GFT100604,Anniversary,Couple Watch Set,Accessories,32.64,39,47,Self,In-store,India,2022-04-14,Happy Anniversary! Hope you like it.
+GFT100605,Birthday,Backpack,Bags,155.62,42,66,Relative,Online,India,2018-07-28,A small gift for your Birthday.
+GFT100606,Christmas,Board Game,Toys,9.24,64,71,Colleague,Handmade,Germany,2018-12-09,Congrats on your Christmas!
+GFT100607,Diwali,Home Decor,Home Decor,321.24,47,40,Colleague,Handmade,USA,2018-09-10,Happy Diwali! Hope you like it.
+GFT100608,Anniversary,Flowers,Flowers,133.38,24,23,Relative,In-store,USA,2025-07-08,Congrats on your Anniversary!
+GFT100609,Graduation,Laptop,Electronics,385.29,44,51,Acquaintance,In-store,UK,2025-03-11,Congrats on your Graduation!
+GFT100610,Birthday,Watch,Accessories,261.87,67,77,Colleague,Online,USA,2018-01-02,A small gift for your Birthday.
+GFT100611,Diwali,Lamps (Diyas),Home Decor,185.89,63,79,Family,Online,Canada,2024-09-22,Wishing you a wonderful Diwali.
+GFT100612,Diwali,Lamps (Diyas),Home Decor,278.6,54,30,Colleague,Online,India,2020-03-02,With love on your Diwali.
+GFT100613,Anniversary,Perfume,Personal Care,93.64,32,7,Colleague,Online,USA,2019-03-05,Wishing you a wonderful Anniversary.
+GFT100614,Father's Day,Gadget,Electronics,815.93,35,56,Relative,Online,India,2019-07-07,A small gift for your Father's Day.
+GFT100615,Baby Shower,Baby Clothes,Baby,142.22,23,1,Self,Online,India,2024-09-21,Happy Baby Shower! Hope you like it.
+GFT100616,Valentine's Day,Roses,Flowers,78.96,25,1,Acquaintance,In-store,India,2022-10-02,With love on your Valentine's Day.
+GFT100617,Christmas,Toy,Toys,30.67,33,6,Friend,Online,India,2024-10-27,With love on your Christmas.
+GFT100618,Anniversary,Flowers,Flowers,54.0,21,1,Partner,Handmade,Germany,2020-10-25,A small gift for your Anniversary.
+GFT100619,Mother's Day,Handbag,Bags,30.5,60,56,Acquaintance,Online,India,2022-10-07,Happy Mother's Day! Hope you like it.
+GFT100620,Birthday,Perfume,Personal Care,59.14,50,64,Acquaintance,Online,India,2020-11-03,With love on your Birthday.
+GFT100621,Mother's Day,Perfume,Personal Care,135.56,54,70,Acquaintance,Handmade,USA,2022-06-19,Wishing you a wonderful Mother's Day.
+GFT100622,Anniversary,Dinner Voucher,Experience,285.91,55,37,Friend,Online,UAE,2020-07-29,With love on your Anniversary.
+GFT100623,Baby Shower,Feeding Bottle,Baby,105.36,31,17,Relative,Handmade,India,2022-10-18,Happy Baby Shower! Hope you like it.
+GFT100624,Mother's Day,Spa Voucher,Experience,411.44,62,56,Acquaintance,In-store,USA,2024-07-29,A small gift for your Mother's Day.
+GFT100625,Christmas,Christmas Ornament,Home Decor,87.12,28,51,Self,In-store,USA,2019-10-29,A small gift for your Christmas.
+GFT100626,Anniversary,Photo Frame,Home Decor,230.09,29,10,Friend,Online,UK,2022-04-30,Congrats on your Anniversary!
+GFT100627,Christmas,Sweater,Clothing,185.44,56,86,Friend,Online,Canada,2023-05-31,With love on your Christmas.
+GFT100628,Christmas,Board Game,Toys,29.01,68,42,Partner,Online,UK,2022-11-21,Congrats on your Christmas!
+GFT100629,Diwali,Clothes,Home Appliances,926.64,17,20,Self,Online,Canada,2020-03-08,Congrats on your Diwali!
+GFT100630,Christmas,Christmas Ornament,Home Decor,10.42,38,59,Self,Online,India,2018-11-14,A small gift for your Christmas.
+GFT100631,Christmas,Toy,Toys,5.37,23,53,Friend,In-store,India,2023-09-22,With love on your Christmas.
+GFT100632,Diwali,Sweets,Food,77.39,45,36,Self,Online,USA,2025-12-06,With love on your Diwali.
+GFT100633,Baby Shower,Toy Set,Baby,7.07,29,58,Relative,In-store,USA,2018-08-05,Congrats on your Baby Shower!
+GFT100634,Birthday,Teddy Bear,Toys,14.91,39,69,Self,Handmade,Australia,2022-03-09,Happy Birthday! Hope you like it.
+GFT100635,Christmas,Sweater,Clothing,272.17,65,63,Friend,In-store,India,2018-06-29,Happy Christmas! Hope you like it.
+GFT100636,Christmas,Toy,Toys,85.87,41,33,Family,Online,India,2023-04-19,Happy Christmas! Hope you like it.
+GFT100637,Christmas,Hot Cocoa Set,Food & Beverage,145.77,33,16,Acquaintance,In-store,India,2020-11-14,A small gift for your Christmas.
+GFT100638,Housewarming,Cookware,Home Appliances,168.1,66,94,Relative,Handmade,India,2019-07-19,A small gift for your Housewarming.
+GFT100639,Birthday,Book,Books,43.7,61,32,Relative,Handmade,India,2020-08-14,Happy Birthday! Hope you like it.
+GFT100640,Diwali,Sweets,Food,107.26,20,33,Family,Handmade,Germany,2025-06-24,Wishing you a wonderful Diwali.
+GFT100641,Birthday,Book,Books,29.58,54,45,Friend,Online,India,2023-07-10,Happy Birthday! Hope you like it.
+GFT100642,Housewarming,Cookware,Home Appliances,819.33,22,1,Partner,Online,UAE,2020-05-28,Congrats on your Housewarming!
+GFT100643,Birthday,Gift Card,Gift Cards,58.62,46,52,Self,Online,India,2024-05-28,Congrats on your Birthday!
+GFT100644,Eid,Sweets Box,Food,4.36,46,45,Colleague,In-store,Germany,2021-09-30,With love on your Eid.
+GFT100645,Birthday,Teddy Bear,Toys,27.26,15,32,Acquaintance,Online,India,2022-09-24,Happy Birthday! Hope you like it.
+GFT100646,Valentine's Day,Roses,Flowers,242.84,50,70,Self,Online,Germany,2020-02-02,Happy Valentine's Day! Hope you like it.
+GFT100647,Birthday,Sunglasses,Accessories,36.5,37,60,Family,Online,Canada,2018-01-26,Wishing you a wonderful Birthday.
+GFT100648,Birthday,Teddy Bear,Toys,56.25,35,41,Relative,Online,UAE,2019-11-17,Happy Birthday! Hope you like it.
+GFT100649,Valentine's Day,Couple Ring,Accessories,216.0,57,33,Self,Online,Canada,2023-05-07,Wishing you a wonderful Valentine's Day.
+GFT100650,Birthday,Teddy Bear,Toys,16.07,51,59,Relative,Online,India,2019-06-03,Happy Birthday! Hope you like it.
+GFT100651,Birthday,Cake,Food,76.48,15,28,Acquaintance,Online,Canada,2024-09-02,Wishing you a wonderful Birthday.
+GFT100652,Eid,Gift Hamper,Food & Beverage,219.86,48,31,Friend,Handmade,India,2020-10-12,A small gift for your Eid.
+GFT100653,Mother's Day,Flowers,Flowers,108.44,24,1,Self,Online,India,2022-01-21,Happy Mother's Day! Hope you like it.
+GFT100654,Anniversary,Dinner Voucher,Experience,35.0,22,1,Partner,Handmade,India,2022-08-11,Wishing you a wonderful Anniversary.
+GFT100655,Eid,Perfume,Personal Care,57.31,57,65,Self,In-store,India,2020-04-03,A small gift for your Eid.
+GFT100656,Valentine's Day,Chocolates,Food,45.53,16,9,Relative,Online,Germany,2022-05-19,A small gift for your Valentine's Day.
+GFT100657,Baby Shower,Baby Blanket,Baby,37.5,66,40,Colleague,Online,India,2018-11-20,Wishing you a wonderful Baby Shower.
+GFT100658,Valentine's Day,Heart Necklace,Accessories,110.81,44,69,Partner,Online,India,2024-08-07,Happy Valentine's Day! Hope you like it.
+GFT100659,Anniversary,Wine,Food & Beverage,113.26,58,85,Friend,Online,UK,2019-05-15,Congrats on your Anniversary!
+GFT100660,Eid,Perfume,Personal Care,25.29,18,1,Colleague,Online,UAE,2025-04-08,Happy Eid! Hope you like it.
+GFT100661,Baby Shower,Baby Blanket,Baby,38.31,49,23,Friend,Handmade,India,2025-04-12,A small gift for your Baby Shower.
+GFT100662,Graduation,Laptop,Electronics,434.09,20,21,Family,Handmade,India,2020-03-22,Congrats on your Graduation!
+GFT100663,Graduation,Pen Set,Stationery,20.18,64,86,Colleague,Online,UK,2023-11-09,A small gift for your Graduation.
+GFT100664,Graduation,Laptop,Electronics,344.7,22,40,Self,In-store,Australia,2020-03-29,Congrats on your Graduation!
+GFT100665,Birthday,Watch,Accessories,33.91,40,40,Family,Online,Canada,2019-06-21,Wishing you a wonderful Birthday.
+GFT100666,Birthday,Cake,Food,62.32,18,12,Family,In-store,UK,2021-10-14,Wishing you a wonderful Birthday.
+GFT100667,Valentine's Day,Roses,Flowers,205.76,35,14,Friend,In-store,India,2022-04-28,Wishing you a wonderful Valentine's Day.
+GFT100668,Valentine's Day,Roses,Flowers,124.76,51,70,Relative,Online,USA,2018-03-11,A small gift for your Valentine's Day.
+GFT100669,Eid,Sweets Box,Food,23.58,34,8,Family,Online,Canada,2022-10-28,A small gift for your Eid.
+GFT100670,Valentine's Day,Couple Ring,Accessories,163.28,45,56,Self,Online,India,2025-02-23,Wishing you a wonderful Valentine's Day.
+GFT100671,Eid,Perfume,Personal Care,24.79,51,61,Colleague,In-store,India,2018-01-29,Happy Eid! Hope you like it.
+GFT100672,Birthday,Sunglasses,Accessories,97.76,35,49,Family,Online,India,2022-05-01,With love on your Birthday.
+GFT100673,Wedding,Home Decor,Home Decor,73.52,20,44,Partner,In-store,UAE,2024-12-17,A small gift for your Wedding.
+GFT100674,Father's Day,Watch,Accessories,118.87,30,53,Relative,Handmade,India,2024-06-26,Congrats on your Father's Day!
+GFT100675,Anniversary,Photo Frame,Home Decor,28.37,32,8,Family,Online,UAE,2024-05-27,Congrats on your Anniversary!
+GFT100676,Birthday,Teddy Bear,Toys,33.49,19,1,Relative,In-store,USA,2018-04-23,Wishing you a wonderful Birthday.
+GFT100677,Father's Day,Watch,Accessories,55.86,31,46,Partner,Online,India,2025-10-20,With love on your Father's Day.
+GFT100678,Valentine's Day,Chocolates,Food,7.65,60,67,Colleague,Online,UK,2025-05-19,Congrats on your Valentine's Day!
+GFT100679,Mother's Day,Chocolates,Food,72.31,17,6,Family,In-store,India,2020-07-24,A small gift for your Mother's Day.
+GFT100680,Mother's Day,Perfume,Personal Care,157.3,28,11,Friend,Online,India,2020-11-04,Congrats on your Mother's Day!
+GFT100681,Christmas,Sweater,Clothing,17.58,29,46,Self,Online,India,2023-06-21,Wishing you a wonderful Christmas.
+GFT100682,Anniversary,Jewelry,Accessories,168.32,61,57,Acquaintance,Online,Germany,2023-03-10,Happy Anniversary! Hope you like it.
+GFT100683,Mother's Day,Handbag,Bags,255.46,26,5,Partner,Online,Australia,2024-07-23,With love on your Mother's Day.
+GFT100684,Valentine's Day,Couple Ring,Accessories,196.38,41,62,Relative,In-store,UK,2018-10-30,Congrats on your Valentine's Day!
+GFT100685,Father's Day,Tie,Clothing,236.57,50,49,Family,Online,India,2021-03-30,Wishing you a wonderful Father's Day.
+GFT100686,Birthday,Sunglasses,Accessories,97.87,53,60,Partner,Online,USA,2019-11-12,Happy Birthday! Hope you like it.
+GFT100687,Father's Day,Gadget,Electronics,1057.83,45,35,Acquaintance,Online,UAE,2024-05-12,Wishing you a wonderful Father's Day.
+GFT100688,Birthday,Perfume,Personal Care,16.41,42,27,Colleague,In-store,Australia,2025-03-30,Congrats on your Birthday!
+GFT100689,Birthday,Gift Card,Gift Cards,201.91,19,41,Relative,Online,Germany,2019-01-22,Wishing you a wonderful Birthday.
+GFT100690,Mother's Day,Perfume,Personal Care,73.65,68,81,Friend,Online,India,2024-05-23,A small gift for your Mother's Day.
+GFT100691,Eid,Gift Hamper,Food & Beverage,46.14,24,5,Friend,Online,India,2025-09-27,Happy Eid! Hope you like it.
+GFT100692,Birthday,Teddy Bear,Toys,71.38,56,36,Self,In-store,India,2024-02-29,Happy Birthday! Hope you like it.
+GFT100693,Birthday,Sunglasses,Accessories,108.94,15,44,Partner,Online,India,2022-09-08,A small gift for your Birthday.
+GFT100694,Birthday,Watch,Accessories,133.76,47,38,Relative,Online,UK,2024-01-31,Congrats on your Birthday!
+GFT100695,Birthday,Backpack,Bags,218.55,19,22,Colleague,Online,UAE,2025-11-08,Happy Birthday! Hope you like it.
+GFT100696,Christmas,Toy,Toys,32.57,22,14,Self,Online,Germany,2025-03-19,Wishing you a wonderful Christmas.
+GFT100697,Wedding,Cutlery Set,Home Appliances,973.25,25,16,Partner,Online,India,2022-11-18,Happy Wedding! Hope you like it.
+GFT100698,Housewarming,Doormat,Home Decor,369.95,58,67,Acquaintance,Online,USA,2018-11-05,A small gift for your Housewarming.
+GFT100699,Birthday,Headphones,Electronics,269.18,40,66,Friend,Online,India,2018-05-09,Wishing you a wonderful Birthday.
+GFT100700,Valentine's Day,Plush Toy,Toys,45.98,30,39,Self,In-store,India,2019-03-11,A small gift for your Valentine's Day.
+GFT100701,Valentine's Day,Chocolates,Food,91.47,64,70,Family,In-store,UAE,2025-06-16,With love on your Valentine's Day.
+GFT100702,Christmas,Board Game,Toys,39.92,53,83,Friend,Online,India,2021-11-05,Congrats on your Christmas!
+GFT100703,Wedding,Cash Gift,Cash,1323.81,56,68,Partner,Online,India,2023-08-06,With love on your Wedding.
+GFT100704,Christmas,Toy,Toys,32.77,18,1,Relative,Online,India,2020-01-28,Happy Christmas! Hope you like it.
+GFT100705,Eid,Sweets Box,Food,19.4,23,38,Acquaintance,Online,USA,2023-08-20,With love on your Eid.
+GFT100706,Christmas,Board Game,Toys,57.25,68,88,Acquaintance,Online,India,2021-05-14,A small gift for your Christmas.
+GFT100707,Christmas,Gift Basket,Food & Beverage,48.83,26,47,Self,Online,Australia,2023-05-20,A small gift for your Christmas.
+GFT100708,Christmas,Sweater,Clothing,37.03,33,20,Acquaintance,Online,India,2023-05-17,Congrats on your Christmas!
+GFT100709,Housewarming,Cookware,Home Appliances,874.19,50,41,Colleague,Online,India,2020-08-16,With love on your Housewarming.
+GFT100710,Birthday,Perfume,Personal Care,115.47,46,37,Relative,In-store,India,2023-10-31,Wishing you a wonderful Birthday.
+GFT100711,Eid,Sweets Box,Food,84.2,48,37,Partner,Handmade,Australia,2020-12-25,Wishing you a wonderful Eid.
+GFT100712,Christmas,Christmas Ornament,Home Decor,85.61,67,38,Relative,In-store,UK,2024-06-04,Wishing you a wonderful Christmas.
+GFT100713,Mother's Day,Handbag,Bags,84.69,58,53,Friend,In-store,India,2024-06-15,Wishing you a wonderful Mother's Day.
+GFT100714,Mother's Day,Flowers,Flowers,51.15,23,12,Family,In-store,India,2018-10-13,With love on your Mother's Day.
+GFT100715,Eid,Gift Hamper,Food & Beverage,213.68,33,31,Relative,Online,UK,2022-04-30,Congrats on your Eid!
+GFT100716,Anniversary,Wine,Food & Beverage,70.13,30,18,Family,Online,India,2020-11-10,With love on your Anniversary.
+GFT100717,Birthday,Sunglasses,Accessories,26.36,15,1,Family,Online,India,2019-07-05,A small gift for your Birthday.
+GFT100718,Father's Day,Watch,Accessories,74.39,26,28,Self,In-store,India,2024-11-18,A small gift for your Father's Day.
+GFT100719,Christmas,Gift Basket,Food & Beverage,126.41,68,90,Partner,In-store,Canada,2018-05-24,Wishing you a wonderful Christmas.
+GFT100720,Anniversary,Jewelry,Accessories,94.12,37,19,Self,In-store,Germany,2018-04-05,Wishing you a wonderful Anniversary.
+GFT100721,Wedding,Cash Gift,Cash,365.05,60,47,Friend,Online,India,2022-03-01,Wishing you a wonderful Wedding.
+GFT100722,Father's Day,Tool Kit,Tools,93.37,68,57,Acquaintance,Online,India,2020-12-21,Wishing you a wonderful Father's Day.
+GFT100723,Birthday,Perfume,Personal Care,85.14,66,62,Relative,Online,USA,2020-03-16,Congrats on your Birthday!
+GFT100724,Diwali,Home Decor,Home Decor,296.27,39,45,Friend,In-store,USA,2018-11-06,Congrats on your Diwali!
+GFT100725,Christmas,Christmas Ornament,Home Decor,437.49,63,52,Partner,In-store,UAE,2019-06-24,Wishing you a wonderful Christmas.
+GFT100726,Valentine's Day,Roses,Flowers,155.15,55,47,Partner,Online,UAE,2023-04-11,Congrats on your Valentine's Day!
+GFT100727,Birthday,Backpack,Bags,34.24,49,75,Colleague,Handmade,Canada,2024-10-20,A small gift for your Birthday.
+GFT100728,Father's Day,Watch,Accessories,145.42,46,34,Self,In-store,India,2022-11-26,With love on your Father's Day.
+GFT100729,Birthday,Sunglasses,Accessories,146.91,48,44,Partner,Online,India,2018-02-09,Wishing you a wonderful Birthday.
+GFT100730,Birthday,Teddy Bear,Toys,45.43,48,51,Self,In-store,USA,2019-01-04,Happy Birthday! Hope you like it.
+GFT100731,Anniversary,Wine,Food & Beverage,76.41,65,81,Partner,Online,UAE,2018-12-03,A small gift for your Anniversary.
+GFT100732,Christmas,Gift Basket,Food & Beverage,73.48,31,22,Self,Online,USA,2021-06-19,Wishing you a wonderful Christmas.
+GFT100733,Diwali,Lamps (Diyas),Home Decor,11.72,23,10,Relative,In-store,Australia,2025-12-03,A small gift for your Diwali.
+GFT100734,Eid,Traditional Clothes,Clothing,169.04,29,21,Colleague,Online,India,2019-10-16,A small gift for your Eid.
+GFT100735,Birthday,Headphones,Electronics,647.34,20,1,Self,Online,India,2018-12-21,Happy Birthday! Hope you like it.
+GFT100736,Birthday,Teddy Bear,Toys,62.99,34,28,Relative,Online,Germany,2025-05-07,Wishing you a wonderful Birthday.
+GFT100737,Father's Day,Tie,Clothing,169.15,41,45,Family,Online,India,2019-02-20,Wishing you a wonderful Father's Day.
+GFT100738,Mother's Day,Spa Voucher,Experience,72.45,65,74,Partner,Online,Australia,2025-06-06,Wishing you a wonderful Mother's Day.
+GFT100739,Wedding,Vase,Home Decor,83.41,20,11,Acquaintance,In-store,Germany,2024-10-12,With love on your Wedding.
+GFT100740,Birthday,Gift Card,Gift Cards,173.53,52,72,Partner,Online,Germany,2020-01-03,Happy Birthday! Hope you like it.
+GFT100741,Christmas,Gift Basket,Food & Beverage,144.43,40,13,Partner,In-store,UAE,2022-10-03,Happy Christmas! Hope you like it.
+GFT100742,Mother's Day,Spa Voucher,Experience,254.42,45,67,Friend,Online,Canada,2023-07-27,Happy Mother's Day! Hope you like it.
+GFT100743,Wedding,Cash Gift,Cash,156.7,36,61,Partner,Handmade,UK,2018-11-12,Wishing you a wonderful Wedding.
+GFT100744,Diwali,Gift Hamper,Food & Beverage,104.05,64,73,Colleague,Handmade,India,2020-04-10,A small gift for your Diwali.
+GFT100745,Father's Day,Gadget,Electronics,361.7,47,19,Friend,Online,India,2021-04-15,Wishing you a wonderful Father's Day.
+GFT100746,Mother's Day,Spa Voucher,Experience,160.41,30,36,Acquaintance,Handmade,UAE,2025-10-25,Wishing you a wonderful Mother's Day.
+GFT100747,Birthday,Watch,Accessories,39.3,29,35,Family,Online,Germany,2023-08-24,Happy Birthday! Hope you like it.
+GFT100748,Birthday,Watch,Accessories,244.75,54,79,Partner,Online,USA,2019-01-18,Happy Birthday! Hope you like it.
+GFT100749,Anniversary,Perfume,Personal Care,42.61,46,37,Acquaintance,Online,India,2022-03-05,A small gift for your Anniversary.
+GFT100750,Christmas,Sweater,Clothing,128.56,43,19,Friend,Online,India,2023-08-11,Congrats on your Christmas!
+GFT100751,Birthday,Sunglasses,Accessories,80.35,39,12,Family,Online,India,2022-06-04,A small gift for your Birthday.
+GFT100752,Valentine's Day,Chocolates,Food,6.31,23,15,Self,Online,Germany,2022-11-02,A small gift for your Valentine's Day.
+GFT100753,Father's Day,Gadget,Electronics,478.27,51,47,Relative,Online,UAE,2024-09-07,Congrats on your Father's Day!
+GFT100754,Christmas,Gift Basket,Food & Beverage,157.85,28,53,Colleague,In-store,India,2020-04-24,Wishing you a wonderful Christmas.
+GFT100755,Birthday,Teddy Bear,Toys,9.98,50,34,Friend,Online,UAE,2022-10-07,A small gift for your Birthday.
+GFT100756,Birthday,Teddy Bear,Toys,40.82,66,41,Colleague,Handmade,USA,2018-06-11,With love on your Birthday.
+GFT100757,Baby Shower,Baby Clothes,Baby,77.02,35,21,Friend,Online,India,2024-11-14,A small gift for your Baby Shower.
+GFT100758,Anniversary,Couple Watch Set,Accessories,58.62,40,51,Partner,In-store,USA,2019-11-12,A small gift for your Anniversary.
+GFT100759,Graduation,Pen Set,Stationery,27.04,68,92,Family,Online,India,2018-11-15,With love on your Graduation.
+GFT100760,Mother's Day,Perfume,Personal Care,13.81,22,31,Relative,Online,India,2021-09-07,Happy Mother's Day! Hope you like it.
+GFT100761,Birthday,Sunglasses,Accessories,139.26,22,1,Acquaintance,Handmade,India,2021-01-11,Happy Birthday! Hope you like it.
+GFT100762,Birthday,Watch,Accessories,236.3,56,31,Self,Online,USA,2024-12-23,Happy Birthday! Hope you like it.
+GFT100763,Wedding,Kitchen Set,Home Appliances,348.95,66,85,Family,Online,USA,2019-10-11,A small gift for your Wedding.
+GFT100764,Eid,Perfume,Personal Care,31.52,23,9,Colleague,In-store,India,2025-10-07,With love on your Eid.
+GFT100765,Father's Day,Wallet,Accessories,158.46,63,43,Self,Online,USA,2021-12-22,Happy Father's Day! Hope you like it.
+GFT100766,Valentine's Day,Couple Ring,Accessories,46.66,26,1,Relative,Online,India,2019-05-29,A small gift for your Valentine's Day.
+GFT100767,Mother's Day,Perfume,Personal Care,108.32,26,31,Colleague,Online,Canada,2020-01-09,Happy Mother's Day! Hope you like it.
+GFT100768,Birthday,Teddy Bear,Toys,10.08,42,24,Family,Online,Australia,2025-04-04,Happy Birthday! Hope you like it.
+GFT100769,Birthday,Cake,Food,22.74,17,7,Colleague,Online,India,2025-09-07,Congrats on your Birthday!
+GFT100770,Mother's Day,Flowers,Flowers,166.92,41,18,Friend,In-store,Australia,2020-11-26,With love on your Mother's Day.
+GFT100771,Baby Shower,Baby Blanket,Baby,73.19,33,14,Self,Handmade,Australia,2022-10-22,Happy Baby Shower! Hope you like it.
+GFT100772,Christmas,Gift Basket,Food & Beverage,144.98,65,47,Self,In-store,USA,2023-01-12,A small gift for your Christmas.
+GFT100773,Housewarming,Indoor Plant,Home Decor,258.68,55,81,Partner,Online,UAE,2019-12-16,Happy Housewarming! Hope you like it.
+GFT100774,Valentine's Day,Heart Necklace,Accessories,82.81,40,56,Colleague,Online,Canada,2025-04-23,With love on your Valentine's Day.
+GFT100775,Father's Day,Watch,Accessories,232.42,51,74,Friend,Online,USA,2021-10-02,Happy Father's Day! Hope you like it.
+GFT100776,Baby Shower,Feeding Bottle,Baby,197.28,22,27,Family,Online,India,2022-08-08,Congrats on your Baby Shower!
+GFT100777,Eid,Perfume,Personal Care,10.14,63,63,Colleague,Online,Germany,2025-02-24,With love on your Eid.
+GFT100778,Father's Day,Watch,Accessories,56.87,15,15,Family,Handmade,USA,2019-12-28,A small gift for your Father's Day.
+GFT100779,Father's Day,Tool Kit,Tools,14.16,25,1,Family,In-store,USA,2025-09-14,Wishing you a wonderful Father's Day.
+GFT100780,Diwali,Sweets,Food,101.82,25,12,Family,Online,USA,2021-02-12,Wishing you a wonderful Diwali.
+GFT100781,Mother's Day,Spa Voucher,Experience,228.93,39,50,Acquaintance,Online,Canada,2025-05-19,Wishing you a wonderful Mother's Day.
+GFT100782,Eid,Sweets Box,Food,10.05,25,33,Colleague,Online,UK,2021-04-27,With love on your Eid.
+GFT100783,Father's Day,Watch,Accessories,282.27,25,46,Colleague,Online,India,2024-04-02,Happy Father's Day! Hope you like it.
+GFT100784,Christmas,Sweater,Clothing,165.95,26,1,Relative,In-store,Australia,2025-05-18,Wishing you a wonderful Christmas.
+GFT100785,Anniversary,Couple Watch Set,Accessories,71.35,30,24,Partner,Online,Canada,2025-09-26,With love on your Anniversary.
+GFT100786,Birthday,Book,Books,27.48,46,31,Self,Online,UAE,2022-06-27,Congrats on your Birthday!
+GFT100787,Birthday,Cake,Food,48.99,39,20,Family,Handmade,USA,2019-06-12,Happy Birthday! Hope you like it.
+GFT100788,Valentine's Day,Plush Toy,Toys,41.89,40,45,Self,Online,USA,2024-11-07,Wishing you a wonderful Valentine's Day.
+GFT100789,Valentine's Day,Plush Toy,Toys,33.98,18,29,Relative,In-store,UAE,2019-08-25,A small gift for your Valentine's Day.
+GFT100790,Housewarming,Indoor Plant,Home Decor,99.44,57,51,Partner,Online,Australia,2025-10-27,Wishing you a wonderful Housewarming.
+GFT100791,Anniversary,Flowers,Flowers,275.31,49,77,Acquaintance,Online,UAE,2022-02-24,Congrats on your Anniversary!
+GFT100792,Wedding,Toaster,Home Appliances,292.74,31,8,Relative,Online,India,2018-10-25,Wishing you a wonderful Wedding.
+GFT100793,Christmas,Board Game,Toys,8.2,52,34,Self,Online,India,2018-06-15,Wishing you a wonderful Christmas.
+GFT100794,Anniversary,Jewelry,Accessories,69.6,64,82,Self,Online,USA,2018-05-20,A small gift for your Anniversary.
+GFT100795,Father's Day,Watch,Accessories,154.39,43,29,Partner,In-store,UK,2025-07-03,With love on your Father's Day.
+GFT100796,Anniversary,Couple Watch Set,Accessories,174.51,66,70,Friend,In-store,USA,2022-06-01,Wishing you a wonderful Anniversary.
+GFT100797,Housewarming,Indoor Plant,Home Decor,10.82,28,44,Family,Online,USA,2020-03-30,Happy Housewarming! Hope you like it.
+GFT100798,Eid,Gift Hamper,Food & Beverage,168.02,59,69,Partner,In-store,India,2020-03-28,Wishing you a wonderful Eid.
+GFT100799,Mother's Day,Handbag,Bags,30.34,45,45,Partner,Online,India,2023-05-22,Happy Mother's Day! Hope you like it.
+GFT100800,Father's Day,Wallet,Accessories,277.08,38,22,Friend,Online,India,2023-12-30,With love on your Father's Day.
+GFT100801,Birthday,Book,Books,7.75,54,58,Self,Online,Germany,2024-07-30,Happy Birthday! Hope you like it.
+GFT100802,Wedding,Kitchen Set,Home Appliances,980.92,49,46,Friend,Online,UAE,2021-11-29,Congrats on your Wedding!
+GFT100803,Eid,Perfume,Personal Care,114.23,68,92,Partner,In-store,India,2022-07-22,Wishing you a wonderful Eid.
+GFT100804,Father's Day,Gadget,Electronics,48.93,16,1,Family,Online,UAE,2022-02-08,A small gift for your Father's Day.
+GFT100805,Valentine's Day,Roses,Flowers,81.47,18,33,Colleague,Handmade,Canada,2022-02-05,Wishing you a wonderful Valentine's Day.
+GFT100806,Birthday,Book,Books,26.88,30,12,Partner,In-store,USA,2025-01-13,A small gift for your Birthday.
+GFT100807,Christmas,Board Game,Toys,69.58,24,38,Relative,In-store,USA,2025-08-27,Wishing you a wonderful Christmas.
+GFT100808,Birthday,Sunglasses,Accessories,72.72,36,47,Family,Online,India,2020-01-17,Happy Birthday! Hope you like it.
+GFT100809,Wedding,Cutlery Set,Home Appliances,370.91,59,50,Family,In-store,India,2022-12-18,With love on your Wedding.
+GFT100810,Christmas,Hot Cocoa Set,Food & Beverage,156.83,41,67,Relative,Online,UAE,2022-06-20,Congrats on your Christmas!
+GFT100811,Eid,Gift Hamper,Food & Beverage,171.23,16,29,Relative,In-store,USA,2022-02-11,A small gift for your Eid.
+GFT100812,Birthday,Backpack,Bags,252.23,43,30,Partner,Online,UK,2020-05-05,Happy Birthday! Hope you like it.
+GFT100813,Christmas,Christmas Ornament,Home Decor,316.32,24,46,Colleague,In-store,USA,2020-06-05,Wishing you a wonderful Christmas.
+GFT100814,Birthday,Cake,Food,16.37,59,87,Family,Online,India,2024-08-20,A small gift for your Birthday.
+GFT100815,Baby Shower,Toy Set,Baby,185.07,33,7,Colleague,Online,India,2018-11-12,Wishing you a wonderful Baby Shower.
+GFT100816,Baby Shower,Toy Set,Baby,77.32,69,97,Colleague,Online,India,2019-05-04,Happy Baby Shower! Hope you like it.
+GFT100817,Father's Day,Tool Kit,Tools,167.12,26,12,Colleague,Online,India,2018-08-03,Congrats on your Father's Day!
+GFT100818,Christmas,Gift Basket,Food & Beverage,143.56,27,9,Self,Online,USA,2022-10-11,Happy Christmas! Hope you like it.
+GFT100819,Christmas,Christmas Ornament,Home Decor,368.23,29,1,Self,In-store,India,2018-10-11,Wishing you a wonderful Christmas.
+GFT100820,Anniversary,Photo Frame,Home Decor,412.16,44,27,Partner,In-store,India,2025-10-02,Congrats on your Anniversary!
+GFT100821,Anniversary,Photo Frame,Home Decor,246.04,20,12,Self,In-store,Canada,2021-09-22,A small gift for your Anniversary.
+GFT100822,Anniversary,Perfume,Personal Care,140.63,27,1,Self,Online,Canada,2024-10-19,With love on your Anniversary.
+GFT100823,Mother's Day,Chocolates,Food,45.01,69,67,Family,In-store,India,2020-01-15,A small gift for your Mother's Day.
+GFT100824,Birthday,Perfume,Personal Care,114.92,24,8,Relative,Online,USA,2023-08-21,A small gift for your Birthday.
+GFT100825,Birthday,Teddy Bear,Toys,30.55,65,63,Colleague,Online,India,2024-08-27,A small gift for your Birthday.
+GFT100826,Birthday,Headphones,Electronics,100.99,41,24,Self,Online,India,2018-03-11,Congrats on your Birthday!
+GFT100827,Valentine's Day,Chocolates,Food,90.62,23,45,Acquaintance,Online,Australia,2018-01-29,Congrats on your Valentine's Day!
+GFT100828,Valentine's Day,Couple Ring,Accessories,185.2,41,42,Partner,Online,UK,2023-10-26,Wishing you a wonderful Valentine's Day.
+GFT100829,Diwali,Lamps (Diyas),Home Decor,242.95,54,62,Relative,In-store,India,2021-01-26,With love on your Diwali.
+GFT100830,Anniversary,Dinner Voucher,Experience,548.19,67,96,Acquaintance,Online,India,2018-06-03,A small gift for your Anniversary.
+GFT100831,Graduation,Watch,Accessories,148.2,67,38,Friend,Online,UAE,2024-11-16,With love on your Graduation.
+GFT100832,Christmas,Toy,Toys,28.99,60,72,Partner,In-store,UAE,2020-07-17,Wishing you a wonderful Christmas.
+GFT100833,Birthday,Perfume,Personal Care,112.81,49,37,Relative,Online,UK,2021-01-01,A small gift for your Birthday.
+GFT100834,Birthday,Perfume,Personal Care,6.54,50,33,Relative,Online,USA,2018-04-16,Wishing you a wonderful Birthday.
+GFT100835,Wedding,Vase,Home Decor,143.55,44,21,Self,In-store,UAE,2022-08-23,Congrats on your Wedding!
+GFT100836,Diwali,Sweets,Food,23.12,41,42,Partner,In-store,India,2023-04-27,Congrats on your Diwali!
+GFT100837,Graduation,Pen Set,Stationery,42.31,23,17,Family,Online,USA,2022-01-01,Congrats on your Graduation!
+GFT100838,Father's Day,Watch,Accessories,166.28,28,51,Acquaintance,Handmade,Canada,2025-08-30,With love on your Father's Day.
+GFT100839,Father's Day,Tie,Clothing,125.71,52,51,Self,Online,USA,2021-07-21,Wishing you a wonderful Father's Day.
+GFT100840,Birthday,Watch,Accessories,10.78,29,26,Colleague,Online,India,2019-03-02,Happy Birthday! Hope you like it.
+GFT100841,Christmas,Board Game,Toys,41.79,31,12,Relative,In-store,India,2018-05-17,Happy Christmas! Hope you like it.
+GFT100842,Birthday,Watch,Accessories,267.31,51,30,Friend,Online,Germany,2022-10-05,Wishing you a wonderful Birthday.
+GFT100843,Birthday,Headphones,Electronics,730.72,28,12,Self,Online,India,2019-12-15,With love on your Birthday.
+GFT100844,Birthday,Sunglasses,Accessories,163.63,62,35,Relative,In-store,UAE,2020-10-10,Congrats on your Birthday!
+GFT100845,Housewarming,Wall Art,Home Decor,297.54,39,19,Partner,In-store,Germany,2023-09-24,Happy Housewarming! Hope you like it.
+GFT100846,Graduation,Watch,Accessories,91.14,41,19,Acquaintance,In-store,Canada,2024-03-08,With love on your Graduation.
+GFT100847,Housewarming,Cookware,Home Appliances,146.36,50,41,Self,In-store,India,2024-06-24,Happy Housewarming! Hope you like it.
+GFT100848,Christmas,Sweater,Clothing,144.25,30,1,Colleague,In-store,USA,2022-04-04,Happy Christmas! Hope you like it.
+GFT100849,Christmas,Christmas Ornament,Home Decor,306.56,43,38,Family,Online,India,2019-08-14,A small gift for your Christmas.
+GFT100850,Diwali,Lamps (Diyas),Home Decor,213.31,41,55,Colleague,In-store,USA,2018-12-29,A small gift for your Diwali.
+GFT100851,Christmas,Hot Cocoa Set,Food & Beverage,116.85,32,19,Family,Online,UK,2023-05-29,Wishing you a wonderful Christmas.
+GFT100852,Diwali,Gift Hamper,Food & Beverage,259.66,20,39,Friend,Online,India,2019-10-24,Happy Diwali! Hope you like it.
+GFT100853,Birthday,Headphones,Electronics,892.86,18,1,Partner,Online,USA,2025-10-19,Congrats on your Birthday!
+GFT100854,Wedding,Vase,Home Decor,234.39,34,61,Colleague,In-store,India,2023-11-04,A small gift for your Wedding.
+GFT100855,Mother's Day,Flowers,Flowers,73.8,20,1,Relative,Online,UK,2019-04-01,Congrats on your Mother's Day!
+GFT100856,Birthday,Gift Card,Gift Cards,34.4,46,63,Partner,In-store,India,2025-02-05,With love on your Birthday.
+GFT100857,Anniversary,Couple Watch Set,Accessories,25.62,37,67,Relative,Handmade,India,2022-01-31,A small gift for your Anniversary.
+GFT100858,Anniversary,Jewelry,Accessories,315.03,39,41,Relative,Handmade,USA,2020-01-08,With love on your Anniversary.
+GFT100859,Birthday,Headphones,Electronics,823.88,57,37,Family,Online,USA,2020-01-12,Wishing you a wonderful Birthday.
+GFT100860,Wedding,Cutlery Set,Home Appliances,250.95,16,38,Acquaintance,Handmade,India,2021-07-29,Congrats on your Wedding!
+GFT100861,Eid,Traditional Clothes,Clothing,222.18,54,42,Acquaintance,In-store,India,2021-05-19,Happy Eid! Hope you like it.
+GFT100862,Graduation,Backpack,Bags,37.34,50,61,Relative,Handmade,UK,2020-07-20,Congrats on your Graduation!
+GFT100863,Wedding,Toaster,Home Appliances,823.24,49,67,Partner,Online,Germany,2018-01-03,Congrats on your Wedding!
+GFT100864,Graduation,Watch,Accessories,114.7,29,25,Relative,Online,India,2024-03-10,Happy Graduation! Hope you like it.
+GFT100865,Birthday,Cake,Food,50.31,26,9,Partner,Online,Canada,2021-01-26,Happy Birthday! Hope you like it.
+GFT100866,Christmas,Christmas Ornament,Home Decor,224.06,28,12,Relative,Online,Australia,2025-07-30,A small gift for your Christmas.
+GFT100867,Anniversary,Jewelry,Accessories,250.5,16,5,Friend,Online,USA,2019-12-26,Happy Anniversary! Hope you like it.
+GFT100868,Valentine's Day,Chocolates,Food,35.95,41,17,Relative,Online,India,2020-09-07,Wishing you a wonderful Valentine's Day.
+GFT100869,Birthday,Cake,Food,5.24,43,50,Self,In-store,India,2018-01-02,With love on your Birthday.
+GFT100870,Mother's Day,Perfume,Personal Care,32.44,58,67,Relative,Handmade,UAE,2025-07-07,Congrats on your Mother's Day!
+GFT100871,Diwali,Clothes,Home Appliances,467.35,58,35,Colleague,Online,USA,2022-12-15,Happy Diwali! Hope you like it.
+GFT100872,Valentine's Day,Plush Toy,Toys,11.25,16,1,Friend,Handmade,India,2021-10-10,Wishing you a wonderful Valentine's Day.
+GFT100873,Wedding,Home Decor,Home Decor,268.36,41,32,Self,Online,UAE,2020-05-11,A small gift for your Wedding.
+GFT100874,Birthday,Perfume,Personal Care,118.21,30,31,Acquaintance,Online,India,2022-04-30,A small gift for your Birthday.
+GFT100875,Christmas,Toy,Toys,54.36,24,46,Relative,Online,USA,2019-06-02,Congrats on your Christmas!
+GFT100876,Father's Day,Tie,Clothing,236.46,50,74,Relative,Handmade,UK,2025-11-03,Happy Father's Day! Hope you like it.
+GFT100877,Anniversary,Dinner Voucher,Experience,64.23,61,87,Family,In-store,UAE,2025-11-01,With love on your Anniversary.
+GFT100878,Anniversary,Couple Watch Set,Accessories,155.23,58,61,Partner,Online,India,2022-05-08,With love on your Anniversary.
+GFT100879,Mother's Day,Chocolates,Food,57.07,42,68,Self,Online,USA,2022-02-26,Congrats on your Mother's Day!
+GFT100880,Anniversary,Couple Watch Set,Accessories,26.89,60,71,Friend,Online,India,2023-11-16,A small gift for your Anniversary.
+GFT100881,Wedding,Vase,Home Decor,323.57,27,1,Self,In-store,India,2022-07-10,A small gift for your Wedding.
+GFT100882,Eid,Gift Hamper,Food & Beverage,108.53,39,36,Acquaintance,Online,USA,2018-12-15,A small gift for your Eid.
+GFT100883,Wedding,Cash Gift,Cash,500.21,38,23,Partner,Handmade,UAE,2024-06-27,A small gift for your Wedding.
+GFT100884,Housewarming,Serving Tray,Home Appliances,789.07,36,19,Family,Handmade,USA,2023-05-16,Congrats on your Housewarming!
+GFT100885,Christmas,Board Game,Toys,8.21,61,84,Friend,In-store,Canada,2020-07-05,A small gift for your Christmas.
+GFT100886,Father's Day,Wallet,Accessories,234.97,60,84,Partner,Online,India,2021-04-03,Congrats on your Father's Day!
+GFT100887,Birthday,Watch,Accessories,212.9,41,29,Friend,In-store,Canada,2022-03-27,A small gift for your Birthday.
+GFT100888,Father's Day,Wallet,Accessories,157.23,54,69,Friend,Online,India,2021-03-11,Congrats on your Father's Day!
+GFT100889,Baby Shower,Baby Blanket,Baby,63.14,44,72,Partner,Online,Germany,2020-04-12,Wishing you a wonderful Baby Shower.
+GFT100890,Anniversary,Photo Frame,Home Decor,47.94,20,50,Colleague,In-store,Australia,2022-07-28,Congrats on your Anniversary!
+GFT100891,Valentine's Day,Couple Ring,Accessories,98.76,35,10,Self,Online,Canada,2021-02-20,Wishing you a wonderful Valentine's Day.
+GFT100892,Mother's Day,Handbag,Bags,88.09,67,75,Self,Online,USA,2023-11-05,Happy Mother's Day! Hope you like it.
+GFT100893,Housewarming,Doormat,Home Decor,27.38,30,49,Colleague,Online,USA,2025-03-17,Happy Housewarming! Hope you like it.
+GFT100894,Christmas,Sweater,Clothing,342.81,58,63,Family,In-store,Canada,2018-02-04,A small gift for your Christmas.
+GFT100895,Christmas,Christmas Ornament,Home Decor,177.35,46,46,Colleague,In-store,India,2023-12-15,A small gift for your Christmas.
+GFT100896,Mother's Day,Spa Voucher,Experience,115.98,27,25,Relative,Online,UAE,2021-08-23,Wishing you a wonderful Mother's Day.
+GFT100897,Birthday,Headphones,Electronics,413.07,35,6,Friend,Handmade,UAE,2021-04-06,Happy Birthday! Hope you like it.
+GFT100898,Mother's Day,Flowers,Flowers,190.81,17,1,Relative,In-store,India,2024-08-31,Wishing you a wonderful Mother's Day.
+GFT100899,Christmas,Toy,Toys,55.36,16,11,Relative,In-store,India,2020-01-13,Wishing you a wonderful Christmas.
+GFT100900,Birthday,Cake,Food,3.2,65,82,Relative,Online,India,2021-08-30,Congrats on your Birthday!
+GFT100901,Father's Day,Tool Kit,Tools,135.99,56,53,Self,Handmade,UK,2022-09-12,With love on your Father's Day.
+GFT100902,Eid,Traditional Clothes,Clothing,121.66,66,65,Colleague,Online,USA,2023-09-12,A small gift for your Eid.
+GFT100903,Anniversary,Jewelry,Accessories,244.93,53,34,Self,Online,USA,2018-02-03,Happy Anniversary! Hope you like it.
+GFT100904,Christmas,Gift Basket,Food & Beverage,6.75,36,41,Partner,Online,India,2019-06-28,Happy Christmas! Hope you like it.
+GFT100905,Anniversary,Dinner Voucher,Experience,508.06,22,1,Family,In-store,USA,2021-01-30,Wishing you a wonderful Anniversary.
+GFT100906,Valentine's Day,Chocolates,Food,45.55,53,75,Relative,Online,India,2019-01-20,Happy Valentine's Day! Hope you like it.
+GFT100907,Christmas,Gift Basket,Food & Beverage,186.88,42,58,Relative,In-store,Canada,2022-10-09,With love on your Christmas.
+GFT100908,Father's Day,Wallet,Accessories,104.09,46,76,Friend,Online,India,2021-09-13,A small gift for your Father's Day.
+GFT100909,Mother's Day,Chocolates,Food,60.39,24,1,Family,Online,Australia,2022-06-30,With love on your Mother's Day.
+GFT100910,Valentine's Day,Love Letter,Flowers,164.5,34,19,Colleague,In-store,India,2018-12-13,Happy Valentine's Day! Hope you like it.
+GFT100911,Baby Shower,Diaper Pack,Baby,83.15,58,67,Friend,In-store,Canada,2023-06-27,Wishing you a wonderful Baby Shower.
+GFT100912,Mother's Day,Spa Voucher,Experience,345.5,20,13,Acquaintance,Online,India,2021-07-25,Happy Mother's Day! Hope you like it.
+GFT100913,Birthday,Teddy Bear,Toys,36.56,64,80,Acquaintance,Online,USA,2025-09-26,Congrats on your Birthday!
+GFT100914,Baby Shower,Toy Set,Baby,22.21,21,6,Self,In-store,India,2020-08-24,Wishing you a wonderful Baby Shower.
+GFT100915,Birthday,Headphones,Electronics,901.73,52,67,Partner,In-store,USA,2020-01-25,Happy Birthday! Hope you like it.
+GFT100916,Birthday,Book,Books,4.82,64,71,Acquaintance,Online,India,2025-03-17,With love on your Birthday.
+GFT100917,Valentine's Day,Heart Necklace,Accessories,140.13,23,40,Colleague,In-store,India,2022-12-10,A small gift for your Valentine's Day.
+GFT100918,Birthday,Watch,Accessories,87.36,46,43,Family,In-store,India,2025-08-17,Happy Birthday! Hope you like it.
+GFT100919,Birthday,Backpack,Bags,81.18,45,74,Friend,Online,USA,2020-08-05,Happy Birthday! Hope you like it.
+GFT100920,Birthday,Headphones,Electronics,753.59,19,1,Partner,Online,Canada,2025-09-09,Wishing you a wonderful Birthday.
+GFT100921,Wedding,Toaster,Home Appliances,629.4,68,74,Colleague,In-store,USA,2023-01-13,A small gift for your Wedding.
+GFT100922,Graduation,Pen Set,Stationery,59.05,70,85,Partner,Online,India,2022-07-29,Wishing you a wonderful Graduation.
+GFT100923,Mother's Day,Spa Voucher,Experience,294.67,52,25,Colleague,Online,UAE,2025-10-28,Happy Mother's Day! Hope you like it.
+GFT100924,Birthday,Cake,Food,59.89,34,48,Self,In-store,India,2025-07-17,Wishing you a wonderful Birthday.
+GFT100925,Graduation,Certificate Frame,Toys,49.73,36,12,Colleague,In-store,India,2024-09-24,Wishing you a wonderful Graduation.
+GFT100926,Anniversary,Flowers,Flowers,80.8,61,80,Self,Online,India,2021-07-09,Congrats on your Anniversary!
+GFT100927,Birthday,Watch,Accessories,78.43,53,78,Family,In-store,USA,2025-02-18,Wishing you a wonderful Birthday.
+GFT100928,Anniversary,Perfume,Personal Care,88.06,32,8,Relative,In-store,Germany,2020-07-29,Happy Anniversary! Hope you like it.
+GFT100929,Christmas,Christmas Ornament,Home Decor,99.15,59,67,Partner,Online,India,2019-01-08,Happy Christmas! Hope you like it.
+GFT100930,Graduation,Books,Home Appliances,229.18,54,27,Self,Handmade,India,2018-11-08,Happy Graduation! Hope you like it.
+GFT100931,Birthday,Cake,Food,59.08,20,43,Friend,In-store,USA,2020-02-25,A small gift for your Birthday.
+GFT100932,Baby Shower,Feeding Bottle,Baby,28.43,62,65,Colleague,Online,UK,2018-06-02,A small gift for your Baby Shower.
+GFT100933,Christmas,Gift Basket,Food & Beverage,148.0,38,46,Partner,In-store,UAE,2025-01-30,Happy Christmas! Hope you like it.
+GFT100934,Anniversary,Wine,Food & Beverage,83.06,32,20,Relative,In-store,UK,2025-06-24,Congrats on your Anniversary!
+GFT100935,Christmas,Toy,Toys,51.83,31,51,Relative,Handmade,USA,2021-10-11,Congrats on your Christmas!
+GFT100936,Christmas,Gift Basket,Food & Beverage,221.88,48,38,Friend,In-store,UAE,2021-02-13,With love on your Christmas.
+GFT100937,Housewarming,Indoor Plant,Home Decor,40.51,17,41,Family,Online,UAE,2025-08-27,Wishing you a wonderful Housewarming.
+GFT100938,Wedding,Vase,Home Decor,186.98,68,43,Friend,In-store,Germany,2019-08-02,Congrats on your Wedding!
+GFT100939,Wedding,Cash Gift,Cash,852.85,42,25,Partner,Online,India,2025-01-19,A small gift for your Wedding.
+GFT100940,Anniversary,Photo Frame,Home Decor,76.65,44,70,Colleague,Online,USA,2019-07-11,Congrats on your Anniversary!
+GFT100941,Anniversary,Wine,Food & Beverage,182.72,27,25,Relative,Online,India,2018-04-23,Wishing you a wonderful Anniversary.
+GFT100942,Christmas,Toy,Toys,14.96,60,32,Self,In-store,Canada,2022-08-03,With love on your Christmas.
+GFT100943,Valentine's Day,Love Letter,Electronics,489.13,70,42,Partner,Online,Germany,2024-05-26,Happy Valentine's Day! Hope you like it.
+GFT100944,Birthday,Cake,Food,67.72,42,16,Partner,In-store,USA,2022-10-08,Happy Birthday! Hope you like it.
+GFT100945,Christmas,Hot Cocoa Set,Food & Beverage,257.06,19,6,Relative,Online,India,2020-08-06,Happy Christmas! Hope you like it.
+GFT100946,Housewarming,Serving Tray,Home Appliances,155.5,50,57,Acquaintance,Online,USA,2023-08-12,With love on your Housewarming.
+GFT100947,Birthday,Backpack,Bags,101.29,41,30,Acquaintance,In-store,USA,2019-01-27,Wishing you a wonderful Birthday.
+GFT100948,Birthday,Cake,Food,31.57,54,75,Self,Online,USA,2021-05-28,Happy Birthday! Hope you like it.
+GFT100949,Eid,Gift Hamper,Food & Beverage,138.47,49,23,Acquaintance,Online,India,2020-11-27,Wishing you a wonderful Eid.
+GFT100950,Baby Shower,Diaper Pack,Baby,97.19,30,5,Partner,In-store,India,2020-03-12,Happy Baby Shower! Hope you like it.
+GFT100951,Diwali,Gift Hamper,Food & Beverage,118.0,34,24,Partner,Online,USA,2020-01-23,A small gift for your Diwali.
+GFT100952,Wedding,Kitchen Set,Home Appliances,831.03,68,92,Relative,In-store,UK,2019-10-18,With love on your Wedding.
+GFT100953,Birthday,Perfume,Personal Care,81.94,20,37,Friend,Online,USA,2019-07-24,With love on your Birthday.
+GFT100954,Christmas,Christmas Ornament,Home Decor,386.82,66,38,Partner,In-store,USA,2025-03-16,Happy Christmas! Hope you like it.
+GFT100955,Baby Shower,Diaper Pack,Baby,149.82,31,56,Friend,In-store,UAE,2024-07-21,A small gift for your Baby Shower.
+GFT100956,Valentine's Day,Plush Toy,Toys,52.42,57,30,Colleague,In-store,Germany,2019-07-20,A small gift for your Valentine's Day.
+GFT100957,Birthday,Perfume,Personal Care,133.09,63,53,Relative,Online,India,2024-05-21,With love on your Birthday.
+GFT100958,Anniversary,Photo Frame,Home Decor,203.62,66,71,Partner,In-store,Canada,2022-07-13,A small gift for your Anniversary.
+GFT100959,Housewarming,Wall Art,Home Decor,135.65,47,49,Partner,Online,Canada,2025-08-23,Congrats on your Housewarming!
+GFT100960,Christmas,Toy,Toys,78.07,53,63,Family,Handmade,Canada,2023-06-25,With love on your Christmas.
+GFT100961,Wedding,Cash Gift,Cash,615.0,19,38,Partner,In-store,USA,2019-04-03,A small gift for your Wedding.
+GFT100962,Valentine's Day,Couple Ring,Accessories,83.4,48,35,Acquaintance,Online,Canada,2021-06-04,A small gift for your Valentine's Day.
+GFT100963,Birthday,Sunglasses,Accessories,114.39,65,91,Self,Online,UAE,2023-06-14,Happy Birthday! Hope you like it.
+GFT100964,Eid,Perfume,Personal Care,152.48,54,60,Friend,Online,UK,2025-12-20,A small gift for your Eid.
+GFT100965,Mother's Day,Perfume,Personal Care,115.56,50,28,Friend,Handmade,India,2022-09-04,With love on your Mother's Day.
+GFT100966,Birthday,Book,Books,39.81,59,46,Partner,Online,India,2019-11-08,With love on your Birthday.
+GFT100967,Birthday,Perfume,Personal Care,100.62,60,43,Relative,In-store,India,2022-11-05,A small gift for your Birthday.
+GFT100968,Christmas,Toy,Toys,46.76,22,1,Partner,In-store,USA,2020-07-25,With love on your Christmas.
+GFT100969,Graduation,Pen Set,Stationery,29.27,28,37,Relative,Online,India,2019-08-16,A small gift for your Graduation.
+GFT100970,Valentine's Day,Heart Necklace,Accessories,163.47,41,21,Family,Online,Canada,2025-02-26,With love on your Valentine's Day.
+GFT100971,Christmas,Gift Basket,Food & Beverage,175.09,28,29,Partner,Online,Canada,2018-06-01,Happy Christmas! Hope you like it.
+GFT100972,Christmas,Christmas Ornament,Home Decor,37.77,21,16,Relative,Online,Canada,2022-02-04,A small gift for your Christmas.
+GFT100973,Mother's Day,Spa Voucher,Experience,157.79,20,3,Family,In-store,Australia,2020-03-05,A small gift for your Mother's Day.
+GFT100974,Birthday,Gift Card,Gift Cards,106.89,60,79,Acquaintance,Handmade,UK,2025-06-13,Happy Birthday! Hope you like it.
+GFT100975,Eid,Traditional Clothes,Clothing,242.23,63,66,Colleague,Online,USA,2018-12-29,Wishing you a wonderful Eid.
+GFT100976,Baby Shower,Diaper Pack,Baby,154.08,55,65,Partner,Online,India,2020-05-29,Wishing you a wonderful Baby Shower.
+GFT100977,Valentine's Day,Heart Necklace,Accessories,87.09,28,26,Acquaintance,Handmade,USA,2021-05-17,Happy Valentine's Day! Hope you like it.
+GFT100978,Wedding,Cutlery Set,Home Appliances,387.46,33,32,Colleague,Online,USA,2022-09-24,Congrats on your Wedding!
+GFT100979,Christmas,Board Game,Toys,65.6,29,1,Family,In-store,UK,2022-05-05,With love on your Christmas.
+GFT100980,Graduation,Watch,Accessories,131.71,36,58,Relative,Handmade,Canada,2024-09-07,Congrats on your Graduation!
+GFT100981,Baby Shower,Baby Clothes,Baby,70.61,40,60,Friend,Online,India,2024-05-29,Happy Baby Shower! Hope you like it.
+GFT100982,Wedding,Home Decor,Home Decor,98.54,34,25,Partner,Online,India,2025-09-28,With love on your Wedding.
+GFT100983,Birthday,Teddy Bear,Toys,58.58,69,70,Relative,Online,India,2022-08-10,A small gift for your Birthday.
+GFT100984,Christmas,Sweater,Clothing,135.39,70,82,Colleague,In-store,India,2021-02-20,Wishing you a wonderful Christmas.
+GFT100985,Anniversary,Couple Watch Set,Accessories,221.07,31,56,Partner,Online,India,2024-02-02,With love on your Anniversary.
+GFT100986,Father's Day,Tool Kit,Tools,246.98,41,64,Friend,Online,India,2024-06-17,Congrats on your Father's Day!
+GFT100987,Valentine's Day,Plush Toy,Toys,32.82,37,54,Colleague,Online,USA,2024-08-14,A small gift for your Valentine's Day.
+GFT100988,Birthday,Sunglasses,Accessories,48.78,62,83,Acquaintance,Handmade,India,2018-12-16,Happy Birthday! Hope you like it.
+GFT100989,Eid,Traditional Clothes,Clothing,256.65,65,60,Acquaintance,In-store,India,2022-03-28,A small gift for your Eid.
+GFT100990,Diwali,Gift Hamper,Food & Beverage,193.73,67,72,Partner,Online,USA,2021-10-27,Wishing you a wonderful Diwali.
+GFT100991,Birthday,Headphones,Electronics,390.59,40,11,Relative,Online,India,2024-08-14,Wishing you a wonderful Birthday.
+GFT100992,Birthday,Cake,Food,73.74,59,33,Partner,In-store,Australia,2024-05-13,With love on your Birthday.
+GFT100993,Mother's Day,Spa Voucher,Experience,22.36,58,38,Relative,In-store,Canada,2018-12-03,Congrats on your Mother's Day!
+GFT100994,Valentine's Day,Heart Necklace,Accessories,33.14,29,54,Relative,Online,USA,2021-10-31,With love on your Valentine's Day.
+GFT100995,Housewarming,Cookware,Home Appliances,695.44,36,38,Relative,Online,UK,2018-01-29,Happy Housewarming! Hope you like it.
+GFT100996,Valentine's Day,Love Letter,Accessories,172.06,51,62,Acquaintance,Online,USA,2021-10-26,A small gift for your Valentine's Day.
+GFT100997,Birthday,Perfume,Personal Care,161.77,34,62,Family,Online,Australia,2020-09-02,A small gift for your Birthday.
+GFT100998,Christmas,Toy,Toys,72.95,27,37,Partner,In-store,UK,2023-03-10,A small gift for your Christmas.
+GFT100999,Christmas,Board Game,Toys,68.98,41,14,Relative,Online,India,2021-03-21,Happy Christmas! Hope you like it.
+GFT101000,Graduation,Watch,Accessories,118.95,55,28,Friend,In-store,India,2020-09-17,Happy Graduation! Hope you like it.
+GFT101001,Eid,Sweets Box,Food,74.43,66,55,Family,Online,USA,2020-09-19,With love on your Eid.
+GFT101002,Graduation,Certificate Frame,Home Appliances,121.59,17,32,Relative,Online,India,2023-01-31,Congrats on your Graduation!
+GFT101003,Birthday,Gift Card,Gift Cards,106.91,51,35,Self,Online,UAE,2025-09-02,A small gift for your Birthday.
+GFT101004,Valentine's Day,Roses,Flowers,53.97,55,82,Acquaintance,In-store,India,2020-07-31,Congrats on your Valentine's Day!
+GFT101005,Anniversary,Perfume,Personal Care,80.37,37,27,Self,In-store,India,2024-08-04,With love on your Anniversary.
+GFT101006,Graduation,Certificate Frame,Food,48.53,30,52,Relative,Handmade,India,2018-03-29,With love on your Graduation.
+GFT101007,Baby Shower,Diaper Pack,Baby,181.72,41,26,Friend,In-store,USA,2022-08-09,Wishing you a wonderful Baby Shower.
+GFT101008,Father's Day,Tool Kit,Tools,160.01,44,70,Friend,Online,UK,2025-10-08,Congrats on your Father's Day!
+GFT101009,Birthday,Headphones,Electronics,978.07,39,69,Family,Online,India,2023-09-13,Congrats on your Birthday!
+GFT101010,Baby Shower,Toy Set,Baby,91.99,61,71,Self,Online,UK,2021-04-04,Congrats on your Baby Shower!
+GFT101011,Birthday,Cake,Food,43.38,50,33,Colleague,Online,India,2022-05-07,Congrats on your Birthday!
+GFT101012,Anniversary,Flowers,Flowers,18.82,55,66,Colleague,Online,UAE,2018-03-08,Happy Anniversary! Hope you like it.
+GFT101013,Birthday,Headphones,Electronics,454.53,69,45,Family,Online,India,2022-03-16,With love on your Birthday.
+GFT101014,Valentine's Day,Roses,Flowers,45.05,65,84,Partner,Online,India,2025-07-12,Happy Valentine's Day! Hope you like it.
+GFT101015,Birthday,Perfume,Personal Care,20.32,53,74,Colleague,Online,India,2023-01-27,With love on your Birthday.
+GFT101016,Graduation,Laptop,Electronics,698.38,70,72,Friend,Online,USA,2022-11-02,Happy Graduation! Hope you like it.
+GFT101017,Baby Shower,Baby Clothes,Baby,30.58,24,4,Acquaintance,Handmade,UK,2019-09-04,With love on your Baby Shower.
+GFT101018,Wedding,Cash Gift,Cash,813.1,51,47,Friend,Online,India,2023-02-04,Happy Wedding! Hope you like it.
+GFT101019,Father's Day,Gadget,Electronics,733.43,20,2,Acquaintance,Online,India,2024-04-22,Happy Father's Day! Hope you like it.
+GFT101020,Anniversary,Dinner Voucher,Experience,152.0,19,1,Family,Online,Australia,2021-12-19,Congrats on your Anniversary!
+GFT101021,Anniversary,Wine,Food & Beverage,107.16,21,36,Family,Online,UAE,2024-11-23,With love on your Anniversary.
+GFT101022,Birthday,Sunglasses,Accessories,25.0,41,61,Friend,Online,India,2018-06-03,Congrats on your Birthday!
+GFT101023,Eid,Sweets Box,Food,57.79,66,65,Friend,In-store,USA,2020-06-27,Congrats on your Eid!
+GFT101024,Anniversary,Dinner Voucher,Experience,575.23,36,60,Self,Online,India,2020-08-09,Wishing you a wonderful Anniversary.
+GFT101025,Graduation,Books,Accessories,172.4,39,49,Colleague,Handmade,India,2022-04-30,Happy Graduation! Hope you like it.
+GFT101026,Diwali,Home Decor,Home Decor,223.23,57,42,Acquaintance,In-store,Germany,2025-05-22,Congrats on your Diwali!
+GFT101027,Wedding,Vase,Home Decor,131.59,60,37,Colleague,Online,India,2025-10-27,A small gift for your Wedding.
+GFT101028,Wedding,Kitchen Set,Home Appliances,851.3,61,65,Colleague,Online,Canada,2019-09-11,With love on your Wedding.
+GFT101029,Anniversary,Photo Frame,Home Decor,28.84,31,50,Relative,In-store,USA,2019-07-25,Happy Anniversary! Hope you like it.
+GFT101030,Father's Day,Tool Kit,Tools,98.94,57,43,Self,Online,UK,2023-03-25,Wishing you a wonderful Father's Day.
+GFT101031,Graduation,Watch,Accessories,236.24,60,44,Acquaintance,Online,India,2020-12-08,Happy Graduation! Hope you like it.
+GFT101032,Baby Shower,Baby Blanket,Baby,24.24,55,76,Colleague,In-store,UAE,2019-12-18,Congrats on your Baby Shower!
+GFT101033,Father's Day,Wallet,Accessories,138.68,22,47,Friend,Online,Australia,2020-06-30,Wishing you a wonderful Father's Day.
+GFT101034,Birthday,Gift Card,Gift Cards,28.41,21,35,Family,Online,Canada,2022-05-18,Wishing you a wonderful Birthday.
+GFT101035,Christmas,Sweater,Clothing,146.52,53,76,Partner,Handmade,Germany,2021-07-17,With love on your Christmas.
+GFT101036,Birthday,Teddy Bear,Toys,10.89,25,8,Family,Online,India,2018-06-25,With love on your Birthday.
+GFT101037,Valentine's Day,Chocolates,Food,75.93,42,34,Acquaintance,Handmade,USA,2019-09-04,Wishing you a wonderful Valentine's Day.
+GFT101038,Birthday,Teddy Bear,Toys,3.74,60,31,Friend,Handmade,Germany,2018-05-13,A small gift for your Birthday.
+GFT101039,Birthday,Gift Card,Gift Cards,64.36,55,42,Family,Handmade,India,2020-04-18,A small gift for your Birthday.
+GFT101040,Birthday,Sunglasses,Accessories,181.66,19,49,Friend,Online,USA,2020-12-16,A small gift for your Birthday.
+GFT101041,Christmas,Sweater,Clothing,106.73,66,62,Self,Online,Canada,2019-02-09,Wishing you a wonderful Christmas.
+GFT101042,Birthday,Teddy Bear,Toys,20.29,40,21,Partner,In-store,UK,2024-09-06,With love on your Birthday.
+GFT101043,Birthday,Perfume,Personal Care,46.64,49,76,Acquaintance,Online,Canada,2024-08-25,Congrats on your Birthday!
+GFT101044,Birthday,Headphones,Electronics,945.98,46,54,Self,Handmade,India,2025-08-19,Wishing you a wonderful Birthday.
+GFT101045,Mother's Day,Chocolates,Food,40.05,21,47,Partner,In-store,UAE,2020-01-14,Happy Mother's Day! Hope you like it.
+GFT101046,Mother's Day,Spa Voucher,Experience,300.98,62,47,Relative,In-store,UK,2025-03-02,Congrats on your Mother's Day!
+GFT101047,Wedding,Home Decor,Home Decor,90.42,40,42,Relative,Online,Canada,2020-11-23,Wishing you a wonderful Wedding.
+GFT101048,Diwali,Clothes,Food & Beverage,199.26,32,9,Acquaintance,Handmade,USA,2024-07-09,Wishing you a wonderful Diwali.
+GFT101049,Housewarming,Cookware,Home Appliances,444.74,51,68,Friend,Online,UK,2024-06-02,Congrats on your Housewarming!
+GFT101050,Valentine's Day,Heart Necklace,Accessories,143.58,44,43,Colleague,Online,UAE,2025-02-21,Wishing you a wonderful Valentine's Day.
+GFT101051,Anniversary,Flowers,Flowers,36.11,23,52,Acquaintance,In-store,India,2020-03-12,Wishing you a wonderful Anniversary.
+GFT101052,Christmas,Gift Basket,Food & Beverage,71.04,17,45,Family,Online,USA,2023-04-11,With love on your Christmas.
+GFT101053,Birthday,Sunglasses,Accessories,83.89,21,48,Family,Online,India,2024-01-26,Wishing you a wonderful Birthday.
+GFT101054,Graduation,Certificate Frame,Personal Care,56.29,34,63,Acquaintance,Online,UK,2023-06-23,Congrats on your Graduation!
+GFT101055,Father's Day,Wallet,Accessories,125.24,43,36,Partner,In-store,USA,2023-02-19,A small gift for your Father's Day.
+GFT101056,Birthday,Backpack,Bags,210.17,29,36,Relative,In-store,Australia,2024-09-08,Wishing you a wonderful Birthday.
+GFT101057,Wedding,Cash Gift,Cash,973.71,35,36,Relative,Online,Germany,2019-11-14,A small gift for your Wedding.
+GFT101058,Eid,Sweets Box,Food,75.25,69,75,Colleague,In-store,Australia,2025-04-03,Congrats on your Eid!
+GFT101059,Father's Day,Watch,Accessories,56.2,18,15,Friend,Online,UK,2023-08-11,A small gift for your Father's Day.
+GFT101060,Christmas,Christmas Ornament,Home Decor,221.74,61,76,Colleague,Online,India,2020-04-04,Happy Christmas! Hope you like it.
+GFT101061,Baby Shower,Baby Blanket,Baby,43.37,20,26,Self,Online,UK,2025-08-21,With love on your Baby Shower.
+GFT101062,Wedding,Home Decor,Home Decor,341.1,61,59,Self,Online,UK,2025-04-08,With love on your Wedding.
+GFT101063,Christmas,Hot Cocoa Set,Food & Beverage,149.97,60,73,Self,Online,India,2025-07-26,Wishing you a wonderful Christmas.
+GFT101064,Graduation,Watch,Accessories,244.14,54,72,Relative,Online,UK,2018-08-19,With love on your Graduation.
+GFT101065,Birthday,Gift Card,Gift Cards,229.32,53,51,Colleague,Online,Canada,2022-03-24,Happy Birthday! Hope you like it.
+GFT101066,Father's Day,Watch,Accessories,144.75,58,50,Colleague,Online,India,2024-05-02,A small gift for your Father's Day.
+GFT101067,Wedding,Cash Gift,Cash,669.91,61,51,Self,Online,India,2020-09-21,With love on your Wedding.
+GFT101068,Mother's Day,Handbag,Bags,179.88,69,60,Partner,Online,India,2024-06-10,A small gift for your Mother's Day.
+GFT101069,Father's Day,Tie,Clothing,123.24,45,65,Family,Online,USA,2023-02-20,Wishing you a wonderful Father's Day.
+GFT101070,Christmas,Board Game,Toys,13.02,33,7,Family,Online,India,2024-11-05,Wishing you a wonderful Christmas.
+GFT101071,Housewarming,Serving Tray,Home Appliances,657.06,65,53,Colleague,In-store,USA,2025-07-03,With love on your Housewarming.
+GFT101072,Christmas,Sweater,Clothing,48.64,34,19,Family,Online,Australia,2025-07-28,Wishing you a wonderful Christmas.
+GFT101073,Mother's Day,Handbag,Bags,50.29,41,15,Partner,In-store,India,2024-12-25,A small gift for your Mother's Day.
+GFT101074,Valentine's Day,Plush Toy,Toys,67.77,32,26,Self,Handmade,UK,2021-06-24,Wishing you a wonderful Valentine's Day.
+GFT101075,Wedding,Kitchen Set,Home Appliances,225.14,39,42,Colleague,Handmade,India,2022-12-18,Congrats on your Wedding!
+GFT101076,Wedding,Kitchen Set,Home Appliances,279.46,29,51,Family,Online,UK,2025-02-20,With love on your Wedding.
+GFT101077,Christmas,Gift Basket,Food & Beverage,85.75,50,42,Acquaintance,Handmade,USA,2018-04-03,With love on your Christmas.
+GFT101078,Baby Shower,Toy Set,Baby,139.04,38,58,Self,Online,Australia,2021-03-15,Congrats on your Baby Shower!
+GFT101079,Father's Day,Tie,Clothing,298.23,36,28,Self,Online,UK,2018-04-29,Happy Father's Day! Hope you like it.
+GFT101080,Graduation,Watch,Accessories,67.04,59,36,Family,In-store,USA,2019-01-09,Congrats on your Graduation!
+GFT101081,Birthday,Cake,Food,66.68,64,63,Friend,Handmade,UAE,2022-02-07,A small gift for your Birthday.
+GFT101082,Christmas,Board Game,Toys,49.73,68,56,Friend,Online,UK,2019-10-20,With love on your Christmas.
+GFT101083,Birthday,Book,Books,44.94,66,49,Friend,In-store,UK,2023-04-24,Congrats on your Birthday!
+GFT101084,Housewarming,Doormat,Home Decor,292.95,29,17,Relative,In-store,Australia,2024-06-16,With love on your Housewarming.
+GFT101085,Birthday,Perfume,Personal Care,8.22,53,28,Acquaintance,Online,Australia,2020-08-13,With love on your Birthday.
+GFT101086,Mother's Day,Perfume,Personal Care,25.7,29,1,Friend,Online,Germany,2024-04-14,Happy Mother's Day! Hope you like it.
+GFT101087,Birthday,Headphones,Electronics,1182.09,28,4,Colleague,Handmade,India,2022-11-01,Congrats on your Birthday!
+GFT101088,Christmas,Gift Basket,Food & Beverage,72.85,30,17,Acquaintance,Online,India,2018-04-24,Congrats on your Christmas!
+GFT101089,Birthday,Headphones,Electronics,319.55,56,80,Relative,In-store,Canada,2021-07-16,Congrats on your Birthday!
+GFT101090,Diwali,Sweets,Food,60.59,44,17,Friend,Online,Canada,2021-07-27,A small gift for your Diwali.
+GFT101091,Mother's Day,Flowers,Flowers,167.08,30,29,Partner,Online,India,2024-06-24,Congrats on your Mother's Day!
+GFT101092,Birthday,Headphones,Electronics,1063.9,30,27,Colleague,Online,UAE,2024-02-22,Congrats on your Birthday!
+GFT101093,Birthday,Cake,Food,49.71,36,28,Family,Online,USA,2018-06-02,Happy Birthday! Hope you like it.
+GFT101094,Anniversary,Photo Frame,Home Decor,42.09,20,23,Self,Online,Canada,2018-04-01,With love on your Anniversary.
+GFT101095,Valentine's Day,Love Letter,Home Appliances,754.88,58,48,Partner,Handmade,Germany,2021-12-21,Congrats on your Valentine's Day!
+GFT101096,Mother's Day,Flowers,Flowers,215.33,66,49,Colleague,In-store,India,2022-02-14,Happy Mother's Day! Hope you like it.
+GFT101097,Eid,Perfume,Personal Care,56.43,67,70,Relative,Online,India,2023-04-25,Congrats on your Eid!
+GFT101098,Birthday,Sunglasses,Accessories,222.41,37,61,Colleague,Online,India,2023-08-13,Happy Birthday! Hope you like it.
+GFT101099,Diwali,Sweets,Food,108.82,42,29,Relative,Online,USA,2019-01-09,Happy Diwali! Hope you like it.
+GFT101100,Birthday,Backpack,Bags,25.38,55,70,Relative,In-store,Australia,2021-07-07,With love on your Birthday.
+GFT101101,Mother's Day,Chocolates,Food,69.93,50,28,Relative,In-store,India,2023-11-20,Congrats on your Mother's Day!
+GFT101102,Diwali,Home Decor,Home Decor,43.82,34,15,Relative,In-store,Germany,2023-06-28,Wishing you a wonderful Diwali.
+GFT101103,Diwali,Home Decor,Home Decor,79.93,20,38,Relative,In-store,USA,2018-05-07,A small gift for your Diwali.
+GFT101104,Diwali,Lamps (Diyas),Home Decor,161.48,21,40,Relative,Online,India,2025-08-29,Congrats on your Diwali!
+GFT101105,Birthday,Watch,Accessories,22.86,32,34,Partner,Online,UK,2025-10-03,Congrats on your Birthday!
+GFT101106,Christmas,Gift Basket,Food & Beverage,180.34,52,39,Colleague,Online,India,2018-06-15,Wishing you a wonderful Christmas.
+GFT101107,Anniversary,Perfume,Personal Care,9.93,44,62,Acquaintance,In-store,Canada,2018-06-10,Congrats on your Anniversary!
+GFT101108,Birthday,Perfume,Personal Care,24.63,28,10,Family,Online,India,2020-11-22,Wishing you a wonderful Birthday.
+GFT101109,Birthday,Book,Books,33.67,49,63,Self,Online,UK,2020-10-25,Happy Birthday! Hope you like it.
+GFT101110,Birthday,Backpack,Bags,189.07,52,55,Acquaintance,In-store,UK,2025-09-15,Happy Birthday! Hope you like it.
+GFT101111,Christmas,Toy,Toys,52.05,24,34,Acquaintance,Online,UK,2024-10-03,Congrats on your Christmas!
+GFT101112,Christmas,Gift Basket,Food & Beverage,178.78,38,56,Self,In-store,USA,2021-11-15,With love on your Christmas.
+GFT101113,Mother's Day,Flowers,Flowers,41.49,61,70,Friend,In-store,India,2023-12-02,With love on your Mother's Day.
+GFT101114,Birthday,Teddy Bear,Toys,12.39,41,34,Colleague,In-store,UK,2020-03-23,Happy Birthday! Hope you like it.
+GFT101115,Christmas,Board Game,Toys,70.23,28,16,Self,Online,USA,2024-09-17,Happy Christmas! Hope you like it.
+GFT101116,Christmas,Toy,Toys,4.7,45,47,Partner,In-store,UK,2021-02-18,Happy Christmas! Hope you like it.
+GFT101117,Christmas,Toy,Toys,51.95,34,20,Colleague,In-store,UK,2020-08-15,A small gift for your Christmas.
+GFT101118,Christmas,Board Game,Toys,68.33,43,30,Family,In-store,India,2024-10-19,Congrats on your Christmas!
+GFT101119,Christmas,Board Game,Toys,58.15,26,3,Family,In-store,UK,2022-05-12,Happy Christmas! Hope you like it.
+GFT101120,Mother's Day,Chocolates,Food,31.66,26,7,Friend,In-store,India,2020-08-31,A small gift for your Mother's Day.
+GFT101121,Mother's Day,Handbag,Bags,96.55,21,43,Family,Online,India,2018-01-02,Happy Mother's Day! Hope you like it.
+GFT101122,Birthday,Book,Books,5.6,52,29,Family,Handmade,UK,2022-03-11,Happy Birthday! Hope you like it.
+GFT101123,Father's Day,Watch,Accessories,175.28,69,74,Relative,Handmade,Germany,2022-02-06,Happy Father's Day! Hope you like it.
+GFT101124,Christmas,Hot Cocoa Set,Food & Beverage,253.47,45,46,Partner,Online,India,2019-09-25,Congrats on your Christmas!
+GFT101125,Anniversary,Flowers,Flowers,33.77,42,15,Acquaintance,In-store,USA,2019-05-13,Wishing you a wonderful Anniversary.
+GFT101126,Father's Day,Wallet,Accessories,152.62,53,77,Acquaintance,Online,India,2024-07-14,Congrats on your Father's Day!
+GFT101127,Graduation,Books,Clothing,11.88,41,64,Friend,In-store,Canada,2025-10-04,A small gift for your Graduation.
+GFT101128,Christmas,Sweater,Clothing,37.63,40,37,Self,Online,UK,2025-02-24,A small gift for your Christmas.
+GFT101129,Eid,Perfume,Personal Care,68.64,39,47,Friend,In-store,Australia,2020-03-10,Happy Eid! Hope you like it.
+GFT101130,Birthday,Gift Card,Gift Cards,93.05,49,44,Colleague,Online,India,2024-09-10,A small gift for your Birthday.
+GFT101131,Birthday,Sunglasses,Accessories,112.87,24,11,Family,Handmade,India,2021-10-31,Congrats on your Birthday!
+GFT101132,Mother's Day,Flowers,Flowers,28.71,41,12,Partner,In-store,Australia,2020-07-30,With love on your Mother's Day.
+GFT101133,Graduation,Backpack,Bags,58.16,47,31,Partner,In-store,Australia,2020-03-17,Congrats on your Graduation!
+GFT101134,Father's Day,Tie,Clothing,11.83,39,18,Acquaintance,Online,UAE,2021-11-09,Congrats on your Father's Day!
+GFT101135,Christmas,Board Game,Toys,43.87,33,50,Family,Online,India,2021-09-01,Happy Christmas! Hope you like it.
+GFT101136,Birthday,Backpack,Bags,155.09,46,35,Partner,In-store,Australia,2023-01-04,Happy Birthday! Hope you like it.
+GFT101137,Housewarming,Cookware,Home Appliances,143.41,31,15,Friend,In-store,India,2022-05-07,Happy Housewarming! Hope you like it.
+GFT101138,Anniversary,Dinner Voucher,Experience,87.74,25,34,Colleague,In-store,USA,2019-01-13,Happy Anniversary! Hope you like it.
+GFT101139,Housewarming,Cookware,Home Appliances,872.37,22,15,Self,Online,USA,2020-11-11,Wishing you a wonderful Housewarming.
+GFT101140,Christmas,Christmas Ornament,Home Decor,83.32,48,31,Acquaintance,Online,USA,2023-02-27,Congrats on your Christmas!
+GFT101141,Housewarming,Wall Art,Home Decor,5.5,52,75,Family,In-store,USA,2024-01-10,Wishing you a wonderful Housewarming.
+GFT101142,Christmas,Gift Basket,Food & Beverage,165.08,29,5,Family,Online,UK,2020-12-19,Wishing you a wonderful Christmas.
+GFT101143,Diwali,Home Decor,Home Decor,251.46,60,76,Family,In-store,India,2023-12-07,Happy Diwali! Hope you like it.
+GFT101144,Birthday,Sunglasses,Accessories,88.87,46,41,Colleague,Online,USA,2023-06-23,With love on your Birthday.
+GFT101145,Wedding,Cutlery Set,Home Appliances,802.25,58,79,Colleague,In-store,India,2018-04-23,Happy Wedding! Hope you like it.
+GFT101146,Birthday,Perfume,Personal Care,61.77,67,53,Acquaintance,Online,UK,2021-07-01,A small gift for your Birthday.
+GFT101147,Wedding,Toaster,Home Appliances,268.36,18,11,Self,In-store,USA,2022-12-03,Wishing you a wonderful Wedding.
+GFT101148,Father's Day,Watch,Accessories,186.42,68,92,Colleague,Online,UAE,2022-10-03,A small gift for your Father's Day.
+GFT101149,Valentine's Day,Couple Ring,Accessories,215.63,69,65,Partner,Online,USA,2019-11-21,Congrats on your Valentine's Day!
+GFT101150,Birthday,Backpack,Bags,246.51,62,47,Partner,In-store,UAE,2021-08-02,Happy Birthday! Hope you like it.
+GFT101151,Baby Shower,Diaper Pack,Baby,97.5,64,64,Self,Online,India,2020-06-03,Wishing you a wonderful Baby Shower.
+GFT101152,Housewarming,Doormat,Home Decor,17.21,66,81,Partner,In-store,India,2018-07-07,Wishing you a wonderful Housewarming.
+GFT101153,Christmas,Board Game,Toys,34.6,65,71,Self,Online,India,2024-09-01,Wishing you a wonderful Christmas.
+GFT101154,Mother's Day,Chocolates,Food,5.83,70,93,Friend,Online,India,2020-05-30,With love on your Mother's Day.
+GFT101155,Christmas,Hot Cocoa Set,Food & Beverage,114.59,55,79,Relative,Online,UAE,2019-10-18,A small gift for your Christmas.
+GFT101156,Birthday,Sunglasses,Accessories,247.44,15,16,Self,Online,India,2022-07-15,With love on your Birthday.
+GFT101157,Birthday,Watch,Accessories,93.72,58,28,Acquaintance,Online,India,2019-06-14,Congrats on your Birthday!
+GFT101158,Birthday,Watch,Accessories,9.9,50,62,Self,Handmade,UAE,2024-08-03,Wishing you a wonderful Birthday.
+GFT101159,Birthday,Teddy Bear,Toys,23.59,53,75,Family,Handmade,India,2022-06-25,With love on your Birthday.
+GFT101160,Anniversary,Flowers,Flowers,6.05,27,2,Relative,Handmade,India,2018-06-09,Congrats on your Anniversary!
+GFT101161,Eid,Traditional Clothes,Clothing,270.7,62,41,Partner,In-store,India,2025-08-16,With love on your Eid.
+GFT101162,Anniversary,Perfume,Personal Care,21.02,57,73,Friend,Online,India,2018-06-18,Wishing you a wonderful Anniversary.
+GFT101163,Birthday,Headphones,Electronics,618.39,23,34,Partner,Online,Canada,2018-06-18,Wishing you a wonderful Birthday.
+GFT101164,Eid,Sweets Box,Food,42.66,55,56,Colleague,Online,USA,2020-01-07,With love on your Eid.
+GFT101165,Anniversary,Couple Watch Set,Accessories,39.73,31,60,Relative,In-store,India,2022-10-13,Wishing you a wonderful Anniversary.
+GFT101166,Birthday,Book,Books,22.71,38,20,Acquaintance,Online,India,2022-02-15,Happy Birthday! Hope you like it.
+GFT101167,Baby Shower,Diaper Pack,Baby,75.28,28,21,Acquaintance,Handmade,UK,2025-11-04,Congrats on your Baby Shower!
+GFT101168,Christmas,Sweater,Clothing,32.52,29,13,Colleague,Online,Germany,2024-11-28,Wishing you a wonderful Christmas.
+GFT101169,Father's Day,Tie,Clothing,134.62,27,40,Relative,In-store,Canada,2024-05-26,Congrats on your Father's Day!
+GFT101170,Anniversary,Photo Frame,Home Decor,222.64,62,88,Partner,In-store,Australia,2018-02-02,A small gift for your Anniversary.
+GFT101171,Anniversary,Photo Frame,Home Decor,161.74,56,46,Self,Online,UK,2023-04-28,Congrats on your Anniversary!
+GFT101172,Mother's Day,Perfume,Personal Care,24.98,24,34,Colleague,In-store,USA,2018-02-15,A small gift for your Mother's Day.
+GFT101173,Eid,Gift Hamper,Food & Beverage,210.84,26,53,Friend,Online,India,2023-06-14,A small gift for your Eid.
+GFT101174,Mother's Day,Flowers,Flowers,177.34,57,85,Acquaintance,Handmade,Australia,2023-03-01,A small gift for your Mother's Day.
+GFT101175,Valentine's Day,Love Letter,Accessories,19.35,31,52,Partner,Online,India,2019-09-11,Happy Valentine's Day! Hope you like it.
+GFT101176,Diwali,Home Decor,Home Decor,27.16,20,30,Partner,Handmade,UAE,2020-02-01,A small gift for your Diwali.
+GFT101177,Christmas,Toy,Toys,12.53,53,28,Self,Online,USA,2025-05-04,With love on your Christmas.
+GFT101178,Wedding,Cash Gift,Cash,1313.83,38,15,Family,Online,India,2024-09-04,Wishing you a wonderful Wedding.
+GFT101179,Father's Day,Wallet,Accessories,128.1,26,10,Family,Online,UAE,2021-12-28,With love on your Father's Day.
+GFT101180,Christmas,Toy,Toys,29.54,42,47,Colleague,Online,USA,2021-07-31,Congrats on your Christmas!
+GFT101181,Diwali,Sweets,Food,39.47,20,45,Acquaintance,Online,USA,2018-08-18,Congrats on your Diwali!
+GFT101182,Wedding,Kitchen Set,Home Appliances,384.12,49,51,Friend,In-store,India,2024-10-21,Wishing you a wonderful Wedding.
+GFT101183,Birthday,Sunglasses,Accessories,91.99,55,66,Family,Online,USA,2021-01-09,Congrats on your Birthday!
+GFT101184,Birthday,Teddy Bear,Toys,13.73,21,22,Relative,Online,UK,2024-04-24,Wishing you a wonderful Birthday.
+GFT101185,Birthday,Perfume,Personal Care,97.47,60,75,Acquaintance,In-store,UAE,2021-12-24,Wishing you a wonderful Birthday.
+GFT101186,Diwali,Gift Hamper,Food & Beverage,211.91,41,12,Acquaintance,Online,UAE,2025-01-30,Congrats on your Diwali!
+GFT101187,Mother's Day,Flowers,Flowers,39.33,59,54,Relative,Online,India,2025-06-30,A small gift for your Mother's Day.
+GFT101188,Christmas,Toy,Toys,29.53,38,32,Relative,In-store,UK,2024-08-25,Wishing you a wonderful Christmas.
+GFT101189,Birthday,Book,Books,53.99,48,44,Relative,Online,India,2019-05-10,A small gift for your Birthday.
+GFT101190,Birthday,Perfume,Personal Care,33.11,24,43,Friend,In-store,UK,2018-09-10,Congrats on your Birthday!
+GFT101191,Father's Day,Tie,Clothing,145.79,61,81,Colleague,Online,India,2021-09-19,Wishing you a wonderful Father's Day.
+GFT101192,Christmas,Christmas Ornament,Home Decor,147.05,56,55,Self,Online,UAE,2018-02-03,Wishing you a wonderful Christmas.
+GFT101193,Wedding,Cutlery Set,Home Appliances,438.46,47,76,Relative,Online,UK,2023-07-21,With love on your Wedding.
+GFT101194,Birthday,Teddy Bear,Toys,46.81,49,39,Partner,Online,USA,2021-01-20,Wishing you a wonderful Birthday.
+GFT101195,Mother's Day,Chocolates,Food,78.27,55,64,Colleague,In-store,UAE,2025-03-12,Happy Mother's Day! Hope you like it.
+GFT101196,Birthday,Teddy Bear,Toys,19.19,68,97,Relative,Online,India,2021-10-01,With love on your Birthday.
+GFT101197,Anniversary,Jewelry,Accessories,281.28,66,75,Partner,In-store,India,2025-09-07,Happy Anniversary! Hope you like it.
+GFT101198,Baby Shower,Baby Clothes,Baby,38.72,40,14,Colleague,Online,UAE,2021-10-14,Congrats on your Baby Shower!
+GFT101199,Anniversary,Perfume,Personal Care,151.16,21,33,Partner,In-store,USA,2024-05-06,Happy Anniversary! Hope you like it.
